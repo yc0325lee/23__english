@@ -1,0 +1,35 @@
+# vim: ft=text ts=4 sw=4 tw=999 expandtab
+
+당황 = be embarrassed, be flustered, be taken aback, in confusion, in panic, in a flurry
+puzzled = feeling or showing confusion because something is difficult to understand
+mystified = feeling or showing confusion because something is difficult to understand
+demystify = make (something) clear and easy to understand; explain (something) so that it no longer confuses or mystifies someone
+practise = if you practise something, you keep doing it regularly in order to be able to do it better.
+frighten = (흔히 갑자기) 겁먹게[놀라게] 만들다
+scare = 겁주다, 겁먹게[놀라게] 하다
+alarm = 불안하게[두렵게] 만들다
+intimidate = (시키는 대로 하도록) 겁을 주다[위협하다]
+startle = (보통 갑작스럽거나 예상치 못한 일로) 깜짝 놀라게 하다
+surprise (예상밖의 일/이해할 수 없는 일로) 놀라게 하다
+astonish = 깜짝[크게] 놀라게 하다
+astound = 경악시키다, 큰 충격을 주다
+take somebody aback = [주로 수동태로] (특히 부정적인 것이) ~를 깜짝 놀라게 하다[~에게 충격을 주다]
+go through a bad/difficult/sticky patch = 나쁜/힘든/곤란한 시기를 겪다
+get in touch with = get out of touch with
+stammer = speak with many pauses and repetitions because you have a speech problem or because you are very nervous, frightened, etc.
+stagger = move or cause (someone) to move unsteadily from side to side
+chance = an opportunity to do something; the possibility that something will happen
+opportunity = an amount of time or a situation in which something can be done
+attorney = a person whose job is to guide and assist people in matters relating to the law
+lawyer = a person whose job is to guide and assist people in matters relating to the law
+mumble = say (something) quietly in an unclear way that makes it difficult for people to know what you said
+grumble = complain quietly about something; to talk in an unhappy way
+sickness = disease, illness, disorder, infection, condition, ailment, bug
+astound = cause a feeling of great surprise or wonder in (someone)
+astonish = cause a feeling of great wonder or surprise in (someone)
+wallet = a small folding case that holds paper money, credit cards, etc.
+purse = a usually leather or cloth bag used by women for carrying money and personal things; handbag
+{bacheler/master/docter}'s degree
+dusk = the time when day changes into night and the sky begins to get darker
+dawn = the time of day when sunlight first begins to appear
+twilight = the light from the sky at the end of the day when night is just beginning

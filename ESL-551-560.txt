@@ -1,0 +1,839 @@
+# vim: ft=text ts=4 sw=4 tw=999 expandtab
+
+# 0551 - scheduling a medical appointment (health + medicine)
+health plan = 의료 보험
+route = a way to get from one place to another place; a way of achieving or doing something
+route = send (someone or something) along a particular route
+stay on the line = 수화기를 들고 기다리다
+new patient vs. returning patient
+refer someone to somebody = send (someone or something) to a particular person or place for treatment, help, advice, etc.
+health benefit = a payment made by the state or an insurance scheme to cover the cost of medical care
+be booked up = if a plane, restaurant, theatre, etc. is booked up, there are no seats, tables, etc. available; if a person is booked up, they have no time available
+check in = report to someone when you arrive at a place (such as an airport or convention) to let them know you are there; arrive at and be given a room in a hotel, motel, etc.
+paperwork = routine work that involves writing letters, reports, etc.; the official documents that are needed for something to happen or be done
+put down = add (someone or something) to a list
+
+# 0552 - reviewing job applications (business)
+pile = a group of things that are put one on top of another; a very large amount of something
+give (something) a second look = look at something again
+an embarrassment of riches = so many good things that it is difficult to choose just one; 좋은 것이 너무 많아서 하나만 고르기 힘듦
+pathetic = causing feelings of sadness and sympathy; very bad, poor, weak, etc.
+material = a substance that has a particular quality
+have something to do with = be connected or concerned with somebody/something
+trifling = having little value or importance
+peanuts = a trifling amount of money
+hold down = continue to have (a job)
+reference = a person who can be asked for information about another person's character, abilities, etc
+hold on to (something) = keep possession of (something), not lose or give up (something)
+job-hopping = the practice of moving from job to job
+standout = a person or thing that is better or more important than the others in a group
+stand out = be easily seen or noticed; be better or more important than the other people or things in a group in a way that is easily seen or noticed; extend out from a surface
+call in = make a telephone call to a place (such as the place where you work)
+interview = a formal meeting with someone who is being considered for a job or other position
+snatch (up) = take (something) quickly or eagerly
+
+# 0553 - a homeowners’ association (home + community)
+homeowner association = a private association formed by a real estate developer for the purpose of marketing, managing, and selling homes and lots in a residential subdivision
+have a say = (receive the opportunity to) voice one's opinion
+due = a regular payment that you make to be a member of an organization
+assessment = the act of making a judgment about something, the act of assessing something
+bylaw = a rule that an organization (such as a club or company) makes and that its members must follow; (지방 자치 단체 등의) 조례; 부칙, 세칙; (회사의) 내규; (법인의) 정관
+step up = say openly or publicly that you are the person who should get something or who can do something; come forward
+admire = feel respect or approval for (someone or something); 존경하다, 감탄하며 바라보다
+mismanage = manage or control (something) badly; 잘못 관리[경영]하다
+entrench = place (someone or something) in a very strong position that cannot easily be changed
+entrenched = 견고한, 확고한; 박힌돌의 의미?
+ask difficult[tough] questions = 어려운 질문을 하다
+look kindly on = regard (someone or something) sympathetically; 
+look kindly on/look kindly upon = if you look kindly on or look kindly upon someone or something, you support them or approve of what they are doing.
+thankless = difficult and not valued by other people; not showing or feeling thanks
+glutton = a person who eats too much; someone who wants a large amount of something
+glutton for punishment = a person who enjoys things that other people dislike; a person who is always eager to undertake hard or unpleasant tasks
+
+# 0554 - an emergency airplane landing (travel)
+folk = people in general; used to talk to a group of people in a friendly and informal way; ladies and gentlemen
+cockpit = the area in a boat, airplane, etc., where the pilot or driver sits; 조종석
+turbulence = sudden, violent movements of air or water
+fasten seat belt = 안전띠를 매다
+emergency landing a sudden landing of an aircraft, made in case of an on-board emergency or another reason requiring an immediate landing
+cabin crew = the cabin crew on an aircraft are the people whose job is to look after the passengers.
+floatation devices = 구명구
+freak out = if someone freaks out, or if something freaks them out, they suddenly feel extremely surprised, upset, angry, or confused.
+crash-land = land (an airplane, helicopter, etc.) in an unusual way because of an emergency; 불시착하다
+in the middle of nowhere = in a place that is far away from other people, houses, or cities; 멀리 인적이 끊긴
+watch one's life flash = 인생의 번뜩임을 지켜보다
+
+# 0555 - lying and telling the truth (daily life)
+be full of it = be lying or talking nonsense; 함부로, 되는대로 (지껄여)
+god's honest truth = unquestionable, absolute truth; 의심할 여지없는 완전한 진실
+eat the last piece of cake = 
+set one's heart on something = if you have set your heart on something, you want it very much or want to do it very much.
+have one's heart set on = set one's heart on something
+go behind one's back = (몰래) 뒤통수를 치다
+put one over on somebody = persuade somebody to accept something that is not true; trick somebody, show that you are better, stronger, etc. than somebody else by defeating them; ~를 속이다
+look someone in the eye (look sb in the face) = if you look someone in the eye or look them in the face, you look straight at their eyes in a bold and open way, for example in order to make them realize that you are telling the truth.
+Honest Abe = Abraham Lincoln의 애칭
+there’s not a dishonest bone in my body = 부정직한 구석이 하나도 없다
+white lie = a lie about a small or unimportant matter that someone tells to avoid hurting another person
+bold-faced = easy to see and understand as being bad; showing no guilt or shame, not hiding bad behavior
+swear = state (something) very strongly and sincerely; promise very strongly and sincerely to do or not do something
+swear = use offensive words when you speak
+fishy = causing doubt or suspicion; likely to be bad, untrue, dishonest, etc.; 수상한 (냄새가 나는), suspicious
+plead/take the fifth[a five] = refuse to answer questions in a court of law because your answers might be harmful to you or might show that you have committed a crime; 발언[진술]을 거부하다, 묵비권을 행사하다
+spill the beans = reveal secret information; (비밀을) 무심코 말해 버리다
+spill out = if you spill out information or if it spills out, you tell someone about it in a hurried way, because you cannot or do not want to keep it secret; (문제 등을) 털어놓다/(말이 빠르게) 쏟아져 나오다
+not on your life = used as a very forceful way of saying "no" or "never"; 자기 생전에는 안 되는(아주 단호한 거절을 나타냄)
+
+# 0556 - scheduling an appointment (business)
+be tied up (with) = if someone or something is tied up, they are busy or being used, with the result that they are not available for anything else; busy, occupied
+shuffle (around) = move things or people into a different order or into different positions
+shuffle = mix (playing cards) before playing a game so that no one knows what order they are in
+commitment = a promise to do or give something
+free somebody/something up = do something so that somebody is able to do something else; make money, time, etc. available for a particular purpose
+be out = not be possible, be not an option
+bump = move into or against (someone or something) in a sudden and forceful way
+bump = move (someone or something) to a different level, position, rank, etc.; remove (someone or something) from a group or position
+bump into somebody = meet (someone) by chance
+last = continue in time; be able to continue in a particular situation or condition
+make it = reach a particular place, goal, etc.; not fail, die, etc.; survive; become successful
+run late = arrive and/or leave later than the time that is expected
+finagle =  (something) in a clever or dishonest way; trick (someone) in order to get something
+push back = change (a planned event) to start at a later date or time
+pencil something/somebody in = write down somebody's name for an appointment, or the details of an arrangement, although you know that this might have to be changed later
+heads up = tell someone to look up because of possible danger
+heads-up = a message that tells or warns someone about something that is going to happen
+spin one's wheels = stay in the same condition or position without making progress
+every single = used to emphasize that every member of a group is included
+
+# 0557 - applying for a passport (government + law)
+fill out = complete (something, such as a form) by providing necessary information
+social security number = a number that is given to each citizen of the U.S. by the government and that is used for the Social Security program and for official forms and records
+evidence = something which shows that something else exists or is true; a visible sign of something
+citizenship = the fact or status of being a citizen of a particular place
+submit = give (a document, proposal, piece of writing, etc.) to someone so that it can be considered or approved
+submit = stop trying to fight or resist something; agree to do or accept something that you have been resisting or opposing
+Consular Report of Birth Abroad(CRBA) = 해외 출생에 대한 영사 보고서
+Consular Report of Death Abroad(CRDA) = 해외 사망에 대한 영사 보고서
+identification = something that shows who a person is; a document, card, etc., that has your name and other information about you and that often includes your photograph
+identical = being exactly the same; exactly alike or equal
+equivalent = having the same value, use, meaning, etc.
+
+# 0558 - being a strict parent (relationships + family)
+spoil = have a bad effect on (something); damage or ruin (something)
+spoil = give (someone, such as a child) everything that he or she wants; have a bad effect on (someone) by allowing too many things or by not correcting bad behavior
+spoil somebody rotten = give somebody everything they want or ask for
+regimented = (규율/관리가) 엄격한; 열병을 하는 듯한, 대오를 엄격히 맞춘
+frivolous = not important; not deserving serious attention; silly and not serious
+shackles = one of two rings or bands that are placed around a person's wrists or ankles and that are connected by a chain; something that prevents people from acting freely
+miss out on = lose a good opportunity for
+overprotective = trying too hard or excessively to protect someone (such as a child) from danger
+curfew = an order or law that requires people to be indoors after a certain time at night; the time set by a parent at which a child has to be back home after going out; 통금
+behave = act in an acceptable way, to act properly <-> misbehave
+toe the line = do what you are told or required to do even though you do not want to do it; (윗사람 등이) 시키는 대로 하다
+privilege = a right or benefit that is given to some people and not to others; the advantage that wealthy and powerful people have over other people in a society
+free spirit = a person who thinks and acts in a free way without worrying about normal social rules
+uptight = nervous or worried and tending to become upset about something that does not make other people upset
+uptight = unable or unwilling to relax and express feelings openly; too concerned about behaving in a socially proper way
+beats me = (as response or with indirect question) i don't know; i have no idea
+a thing or two = some useful information
+know a thing or two (about somebody/something) = know a lot about somebody/something from your own experience
+
+# 0559 - ending a restaurant meal (food + drink)
+clear the plates, out of one's way
+doggie(doggy) bag = a bag that is used for carrying home food that is left over from a meal eaten at a restaurant
+wrap something up = cover something in paper or other material, to protect it or because you are giving it to somebody as a present
+wrap something up = complete something in an acceptable way
+wrap-up = a brief statement that gives the most important information about what has happened or been done; summary
+did you leave room for dessert? = 후식 먹을 배는 남겨 놨니?
+stuffed = filled with food; not hungry any more; full
+cash = money in the form of coins and bills; money along with other things (such as stocks) that can be quickly changed into money
+money = something (such as coins or bills) used as a way to pay for goods and services and to pay people for their work
+atm= automatic teller machine
+먹튀, 무전취식 = eating without paying a bill; dine and dash; jumping a restaurant bill; running out on the check
+담보 = security, pledge, guaranty, collateral
+
+# 0560 - learning work rules and routines (business)
+rundown = a quick report about the main parts of something; 
+run down = use up or cause (something) to use up all of its power; become or cause (something, such as a business or activity) to become gradually smaller
+pull one's (own) weight = do the things that one should be doing as part of a group of people who are working together
+up to speed = having the latest information about somethingr; having the knowledge that is needed to do or understand something
+drill = a physical or mental activity that is done repeatedly in order to learn something, become more skillful, etc.
+know the drill = know how something is done; be familiar with a regular process, procedure, etc.
+fall in/into line = start to do what you are told or required to do
+on the nose = very accurate, done very accurately; exactly
+leeway = freedom to do something the way you want to do it
+whatsoever = of any kind or amount at all
+habitual = done regularly or repeatedly; doing something regularly or repeatedly
+run-of-the-mill = ordinary, with no special or interesting features; average or ordinary
+tried-and-true = known to be good or effective, known to be reliable; describe a product or method that has already been used and has been found to be successful
+lockstep = a way of marching in which people follow each other very closely; (사람들이) 발을 맞추어 걷기
+drill sergeant = (군사) 훈련 담당 하사관; a non-commissioned officer who trains soldiers in military parade exercises
+
+# 0561 - being forgetful (about you)
+건망증 = forgetfulness, absent-mindedness, short memory, amnesia(medical)
+absent-minded = 건망증이 심한, 딴 데 정신이 팔린
+go over to = move or travel to a particular place or person; visit somebody for a short time, usually at their house
+go over (something) = talk about or think about (something) carefully; look at or study (something) again in order to correct it, learn it, etc.
+etch = produce a pattern, design, etc., by using a powerful liquid (called an acid) to cut the surface of metal or glass
+etch in one's brain = 머리에 새겨넣다(잊어버리지 않도록)
+slip one's mind = 잊어 버리다, 생각나지 않다
+out of one's mind = having lost control of one's mental faculties(abilities to think clearly)
+preoccupied = thinking about something a lot or too much
+remind = make (someone) think about something again; cause (someone) to remember something
+be wrapped up in somebody/something = be so involved with somebody/something that you do not pay enough attention to other people or things; ~에 몰두(열중)한
+job = push or bump (someone or something) lightly
+jog someone's memory = cause or help someone to remember something; 
+commit (something) to memory = learn (something) so that you remember it perfectly, memorize (something)
+incident = an unexpected and usually unpleasant thing that happens; an event or disagreement that is likely to cause serious problems in relations between countries
+in one's face = directly at or against one, as one approaches
+give (someone) a hard time = criticize or annoy someone; make somebody's life very difficult because you do not like them
+scatterbrained = 침착하지 못한, 차분하지 못한, 머리가 산만한
+(모습이) 나타나다 = appear, turn up,show up, present oneself
+show up = (예정된 곳에) 나타나다
+
+# 0562 - buying fake products (clothing + grooming, shopping)
+모조(모방)품 = an imitation, a counterfeit(위조품), a fake, a replica, a phony
+fake = not true or real , meant to look real or genuine but not real or genuine
+imitation = something that is made or produced as a copy; 
+counterfeit = something that is made to look like an exact copy of something else in order to trick people
+be a steal = be for sale at an unexpectedly low price; (값이 너무 싸서) 거저나 마찬가지이다
+genuine = actual, real, or true; not false or fake
+markdown = a reduction in price; 가격인하
+mark something down = give a lower mark to (someone or something); give (something) a lower price; ~의 가격을 인하하다 
+dirt cheap = very cheap or inexpensive
+knockoff = a cheap or inferior copy of something 
+a sucker for = ~에 속기 쉬운[마음 약한] 사람
+fall for = (사람에게) 홀딱 빠지다; (속임수에) 홀랑 넘어가다
+line = a series of similar things; the people in a family; the series of people who are born in a family as years pass
+rip off = steal from or cheat (someone); steal (something)
+swindle = take money or property from (someone) by using lies or tricks; cheat
+there's a sucker born every minute = there is a great number of fools in the world who can be easily swindled, and there always will be
+
+# 0563 - reducing household expenses (home + community, money)
+지출을 줄이다 = cut down one's expenses, cut back on spending
+pinch pennies = be very careful about spending money, to spend as little money as possible; try to spend as little money as possible
+finance = the way in which money is used and handled; matters relating to money and how it is spent or saved
+household = the people in a family or other group that are living together in one house
+pattern = a repeated form or design especially that is used to decorate something; the regular and repeated way in which something happens or is done; something that happens in a regular and repeated way
+underestimate = estimate (something) as being less than the actual size, quantity, or number
+underestimate = think of (someone or something) as being lower in ability, influence, or value than that person or thing actually is; 과소평가하다
+discretionary = available to be used when and how you decide; done or used when necessary; 자유재량에 의한
+essential = extremely important and necessary; very basic; fundamental
+drastic = extreme in effect or action, severe or serious
+affort = be able to pay for (something); be able to do (something) without having problems or being seriously harmed
+
+# 0564 - working in a laboratory (business)
+laboratory = a room or building with special equipment for doing scientific experiments and tests
+colleague = a person who works with you; a fellow worker; (같은 직장이나 직종에 종사하는) 동료
+daycare = occupation, treatment, or supervision during the working day for people who might be at risk if left on their own, or whose usual carers need daytime relief
+research = careful study that is done to find and report new knowledge about something; the activity of getting information about a subject
+toddler = a young child who is just learning to walk; cf.infant
+microscope, telescope, ...
+petri dish = 페트리 접시(세균 배양 따위에 쓰이는, 둥글넓적한 작은 접시)
+silly goose = 바보
+lab coat = a white protective coat worn by workers in a laboratory.
+
+# 0565 - dating a friend's ex (relationships + family)
+ex = a former husband, wife, boyfriend, or girlfriend
+object to something = disagree with something or oppose something
+move on = go on to a different place, subject, activity, etc.; (전 연인과의) 미련을 버리다
+have a thing = when a guy and a girl like each other and do things with each other that one would do with ones boyfriend or girlfriend. however they aren't officially dating.
+off-limits = used to say that people are not allowed to enter a place or use something; used to say that people are not allowed to talk about something
+sneak = move quietly and secretly in order to avoid being noticed; take or bring (something) secretly and often quickly
+clue in = give information to (someone)
+break loose = suddenly become loose, suddenly stop being attached to something
+statute of limitations = a law that states the amount of time that must pass before a crime can no longer be punished or a right can no longer be given
+fair game = if a person or thing is said to be fair game, it is considered acceptable to play jokes on them, criticize them, etc; (농담/비판 등의) 만만한 대상
+break off = become separated or cause (something) to become separated because of force or violence; stop or end suddenly or cause (something) to stop or end suddenly
+let the chips fall where they may = allow events to happen without trying to change them; 결과가 어찌되건 (소신[생각]대로 하다)
+wrath = extreme anger
+it's your funeral = used to tell somebody that they, and nobody else, will have to deal with the unpleasant results of their own actions
+
+# 0566 - having a wild party (entertainment + sports)
+wild party = a party that is a little crazy
+house-sit = stay in and take care of someone's house or apartment while that person is away; (주인이 없는 동안 남의 집에 머물면서) 집을 봐 주다
+blowout = a sudden loss of air caused by a hole or cut in a tire; puncture(펑크)
+blowout = a large and informal social gathering; a big party
+blowout = an easy victory; a game or contest in which the winner defeats the loser by a large amount
+ignorance is bliss = used to say that a person who does not know about a problem does not worry about it; 모르는 게 약이다
+goody = something that tastes good; a good person in a book, movie, etc.; (특히 책영화 속의) 착한 사람
+goody-two-shoes = a goody-goody; a person who is exceptionally good and perhaps self-satisfied; 도덕군자인 척하는[군자연하는] 사람
+get out of hand = become difficult or impossible to control
+pound = crush or break (something) into very small pieces by hitting it again and again
+breakable = possible to break, able to be broken <-> unbreakable
+trash = throw away (something); cause great damage to (something); criticize (someone or something) very harshly
+(as) tough as nails = very strong and able to deal successfully with difficult conditions or situations; not feeling or showing any emotion
+keep someone in line/into line = if you keep someone in line or bring them into line, you make them obey you, or you make them behave in the way you want them to.
+bouncer = a person whose job is to force anyone who causes a problem in a bar, nightclub, etc., to leave that place
+
+# 0567 - visiting a patient in the hospital (health + medicine)
+emergency room in a hospital
+in time = before something happens, early enough
+designate = officially choose (someone or something) to do or be something; officially give (someone or something) a particular role or purpose
+visiting hours = a designated time when visitors may come to see a person in a hospital or other institution.
+ward = a section in a hospital for patients needing a particular kind of care; (병원에서 특정 상태의 환자들을 위한) -실[병동]
+ward = a emergency/maternity/surgical/psychiatric/children’s, etc. ward 
+ICU = 중환자실(intensive care unit)
+life support = the equipment, material, and treatment needed to keep a very sick or hurt patient alive
+in the prime of (your) life = at the time in your life when you are strongest or most successful
+collapse = break apart and fall down suddenly; fall down or become unconscious because you are sick or exhausted
+come by = come to visit somebody for a short time in a relaxed or informal way
+round = a series of similar actions, events, or things
+dread = fear something that will or might happen
+respirator = a device that helps people to breathe when they are not able to breathe naturally; 인공호흡기
+intravenous = (Abbr.) IV. 정맥으로 들어가는, 정맥 주사의
+lifeless = dead or appearing to be dead; lacking spirit, interest, or energy; having no living things
+sedation = a relaxed, calm, or sleepy condition that results from taking a drug (called a sedative); the act of giving a person or animal a drug that causes calmness or relaxation; 진정제 (투여)
+
+# 0568 - describing brisk and slow business (business)
+brisk = moving or speaking quickly, quick and efficient; done with quickness and energy
+celebrate = do something special or enjoyable for an important event, occasion, holiday, etc.
+a banner month/year = unusually good or successfull
+keep up with = go or make progress at the same rate as (others); stay even with (others) in a race, competition, etc.
+keep up with = continue to know the newest information about (something)
+keep up with = continue to talk to or write to (someone); keep in touch with
+fly off the shelves = be sold in large quantities, very rapidly
+sing a different song/tune = (be forced to) change your opinion; (~에 대해) 의견[태도]을 바꾸다
+foot traffic = people walking, pedestrian activity; 근방을 오가는 사람의 규모, 유동 인구 규모
+all the rage = very popular or fashionable; 일시적인 대유행
+beat something down = hit (something, such as a door) so that it falls down; ~을 두들겨 부수다
+passé = no longer fashionable or popular; 유행이 지난, 구식의 (=outmoded)
+inventory = a complete list of the things that are in a place; a supply of goods that are stored in a place; 물품목록, 재고
+fickle = changing often; changing opinions often
+변덕이 심한 = unpredictable, capricious, fickle, temperamental, on a whim
+cry in one's beer = feel sorry for oneself; feel sadness or regret, especially in combination with self-pity
+pull up a chair = bring a chair near to where other people are sitting so as to sit near them
+sob = cry noisily while taking in short, sudden breaths; 흐느껴 울다
+sob story = a sad story about yourself that you tell in order to make people feel sorry for you
+
+# 0569 - traveling for singles (relationships + family, travel)
+on the make = trying to get more money or power; trying to get sex, trying to find a sexual partner
+take one's pick = choose any one that you like from a group of things
+fling = a brief sexual relationship; a short period of time spent doing enjoyable and exciting things; (아무 생각 않고 한바탕) 실컷 즐기기, 잠깐 동안의 정사(情事)
+mingle = combine or bring together two or more things; move around during a party, meeting, etc., and talk informally with different people
+match = make or see a connection or relationship between (two people or things)
+get better acquainted = get to know each other better
+acquaint = cause (someone) to know and become familiar with something; be acquainted with
+awful = extremely bad or unpleasant
+be/get stuck with somebody/something = be forced to do something, take care of somebody/something, etc. that you do not want to
+peace of mind = if something gives you peace of mind, it stops you from worrying about a particular problem or difficulty.
+look out for somebody/yourself = take care of somebody/yourself and think about their/your own interests
+marry somebody off = get rid of a daughter or a son by finding a husband or wife for them
+thick skull = word for the most annoying people you know
+get it into/through one's thick skull = realize or understand
+ray of sunshine = someone or something that makes a person happier or a place more cheerful
+
+# 0570 - guessing a number (daily life)
+contest = an event in which people try to win by doing something better than others
+marble = a kind of stone that is often polished and used in buildings and statues; a little glass ball used in some children's games; 대리석, 구슬
+have[make, give, take] a stab at = try something/doing something, especially if you have never done it before; ~을 시도해 보다
+stab at = wound (someone or something) with a pointed weapon (such as a knife); quickly or suddenly push a pointed object into or toward someone or something
+bowl = a round container that has tall, curving sides and that is used for preparing or serving foods and liquids
+crunch (the) numbers = process numbers; examine and analyze numbers, especially to determine exactly how much money is available, needed, etc.
+beat somebody out of something = get something from somebody by cheating or taking full advantage of a situation
+bring it on! = used to say that you are happy that a difficult or challenging situation is coming because you are sure that you can overcome it
+pit = make small holes or dents in (something)
+pit A against B = A와 B를 싸움 붙이다
+
+# 0571 - assigning blame in a car accident (transportation)
+blame = say or think that a person or thing is responsible for something bad that has happened
+assign (the) blame to somebody = ~에게 책임을 돌리다
+crash into somebody/something = hit somebody/something, causing damage
+slam/jam on the brakes = press down hard on the brakes of a car to make it stop suddenly
+upset = make (someone) unhappy, worried, etc.; cause an unpleasant feeling in (your stomach)
+shake up = upset (someone), shock or frighten (someone)
+total = damage (something, such as a car) so badly that it is not worth repairing; (자동차를) 수리하지 않는 편이 나을 정도로 파손하다
+put in a claim for damages = 손해 배상청구를 하다
+rear-end = drive into the back of (a vehicle)
+swerve = change direction suddenly especially to avoid hitting someone or something
+tailgate = drive too closely behind another vehicle
+account = a description of an event or situation; a story or report about something
+jibe with something = agree with something, be the same as something or match something
+respective = belonging or relating to each one of the people or things that have been mentioned; 각자의, 각각의
+battle it out = argue or fight over (a disputed subject) and reach a conclusion
+there's no point crying over spilt milk = you shouldn't be upset over something that can't be undone; ~해봐야 소용없다, 의미없다
+own up (to something/to doing something) = (잘못을) 인정[자백]하다
+
+# 0572 - blowing the whistle at work (business, government + law)
+blow the whistle = tell police, reporters, etc., about something (such as a crime) that has been kept secret
+ramifications = something that is the result of an action, decision, etc.; 파문, 영향(어떤 행동·결정에 따라 생기는); consequences
+(there are) no two ways about it = used for saying that there is only one possible way to consider a particular situation or fact
+step up = say openly or publicly that you are the person who should get something or who can do something, come forward
+on the line = in danger of being lost or harmed, at risk
+get out = if news, etc. gets out, it becomes known, even though people are trying to keep it a secret; 알려지다
+keep your mouth shut = not say anything; not talk about something (such as a secret)
+live with something = accept and deal with (something unpleasant); ~을 감수하다; put up with something
+count on/upon = trust (someone), to rely or depend on (someone) to do something
+blow up = explode or cause (something, such as a bomb) to explode
+knee-deep = a long way into something, very much involved, mixed up in, stuck in something; usually something bad; 
+put your money where your mouth is = give or spend money or take some action in order to do or support something that you have been talking about; 직접 행동으로 자기 말뜻을 보여 주다
+go public = make something known to many people; make something generally known by announcing it, publishing it, etc.
+go public = offer shares or stock that can be freely traded on the open market; 주식을 공개[상장]하다
+let the chips fall where they may = allow events to happen without trying to change them; 결과가 어찌되건 (소신[생각]대로 하다)
+hasty = done or made very quickly
+sleep on it = think more about something overnight and make a decision about it later
+
+# 0573 - discussing social class (government + law)
+social class = a division of a society based on social and economic status
+out of one's mind = having lost control of one's mental faculties; suffering from a particular condition to a very high degree
+get a rise out of somebody = make somebody react in an angry way by saying something that you know will annoy them, especially as a joke
+see eye to eye = if you see eye to eye with someone, you agree with them and have the same opinions and views.
+working class = the class of people who earn money by doing usually physical work and who are not rich or powerful
+middle class = business and professional people, government officials, and skilled workers
+holier-than-thou = having or showing the annoying attitude of people who believe that they are morally better than other people; 고결한[고고한] 척하는
+work up = make (someone) feel very angry, excited, upset, etc.; get somebody worked up
+class warfare = 계급투쟁; conflict between different social classes, especially (in Marxist ideology) the conflict of interests between the workers and the ruling class in a capitalist society, regarded as inevitably violent
+downright = to the fullest degree, completely or totally
+have a chip on your shoulder = have an angry or unpleasant attitude or way of behaving caused by a belief that you have been treated unfairly in the past; (~에 대해) 예민한 반응을 보이다[쉽게 화를 내다]
+blue-collar = requiring physical work, relating to or having jobs that require physical work
+pink-collar = traditionally held by women
+white-collar = of, relating to, or having the kind of jobs that are done in an office instead of a factory, warehouse, etc. 
+marginalize = put or keep (someone) in a powerless or unimportant position within a society or group; 하찮은 존재 같은 기분이 들게 하다[존재로 만들다]
+소외감을 느끼다 = feel alienated[marginalized, excluded, isolated] 
+under someone's roof = ~의 집에서
+
+# 0574 - shopping for produce (daily life, shopping)
+produce = fresh fruits and vegetables
+fresh = newly produced, made, gathered, etc.; not preserved by being frozen, canned, etc.; not old, spoiled, etc.; clean and pure
+resolve = find an answer or solution to (something), to settle or solve (something); make a definite and serious decision to do something; make a formal decision about something usually by a vote
+make a beeline for = go quickly and directly at or to (something or someone)
+ripe = (fruits and vegetables) fully grown and developed and ready to be eaten; ready or suitable for something
+ripen = become ripe and ready to eat
+pick over = look at (a group of objects or an amount of material) in order to choose the best ones or to remove pieces you do not want; (선별하기 위해) ~을 잘 살펴보다
+organic = grown or made without the use of artificial chemicals; obtained from living things
+spinach = a plant with dark green leaves that are eaten as a vegetable; 시금치
+wilt = (plants) bend over because of not having enough water; become weak and tired especially because of hot weather; lose energy, confidence, effectiveness, etc.
+vegetation = plants in general; plants that cover a particular area
+pass on = begin a new activity, discussion, etc.
+rot = slowly decay or cause (something) to decay; 썩다[부식/부패]하다
+checkout = the action or an instance of leaving your room in a hotel, motel, etc., after you are finished staying there; 계산대(슈퍼마켓), 체크아웃(호텔)
+aisle = a passage between sections of seats in a church, theater, airplane, etc.; a passage where people walk through a store, market, etc.
+spot = see or notice (someone or something that is difficult to see or find)
+spot = lend (someone) a small amount of money
+impulse buy = something purchased spontaneously, without planning or thought
+eat(drink) all in one sitting = 앉은 자리에서 모두 먹어치워버리다(마셔버리다)
+fall off the wagon = start drinking alcohol again after having stopped
+
+# 0575 - being an early or late riser (about you)
+riser = a person who gets out of bed after sleeping; early[late] riser
+watch out for = be quick to notice or be aware of somebody/something, especially somebody/something that might cause you trouble
+at the crack of dawn = very early in the morning, at dawn
+stoop = a raised area (such as a porch, platform, or stairway) at the entrance to a house or building; 현관 입구의 계단
+at an ungodly hour = a time of day that is unreasonably early or late; (짜증스럽도록) 아주 이른[늦은] 시간에
+turn over a new leaf = start behaving or living in a different and better way
+in the habit of = if you are in the habit of doing something, you do it regularly or often.
+into the habit of = if you get into the habit of doing something, you begin to do it regularly or often.
+sleep-deprived = suffering from a lack of sleep
+night owl = a person who enjoys staying up late at night
+early riser = a person who habitually gets out of bed earlier than is usual
+commendable = deserving praise and approval; 칭찬[인정]받을만한
+the early bird gets the worm = whoever arrives first has the best chance of success, some opportunities are only available to the first competitors.
+dose = the amount of a medicine, drug, or vitamin that is taken at one time
+
+# 0576 - using unfair influence (business)
+exercise influence over = use (an ability, power, etc.)
+bid = an attempt to win, get, or do something
+bid on = offer to pay (a particular amount of money) for something that is being sold, to make a bid at an auction; (경매 등에) 입찰하다
+be of service (to somebody) = be helpful or useful to someone
+secure = get (something) by using effort, obtain; (특히 힘들게) 얻어 내다, 획득[확보]하다
+secure a contract/deal = 계약/거래를 따 내다
+the less said, the better = used to say it is better to not say anything about something because it is bad, unpleasant, etc.
+have friends in high places = know important people with power and influence who can help you
+Capitol Hill = the group of people who make the federal laws in the United States, the U.S. Congress
+line one's pocket = informal make money, especially by dishonest means; 
+pull strings (for somebody) = use your influence in order to get an advantage for somebody; (~에게 유리하도록) 영향력을 행사하다
+bribe = something valuable (such as money) that is given in order to get someone to do something
+bribery = the act or crime of giving or accepting a bribe
+preferential = giving an advantage to a particular person or group; 우선권[특혜]을 주는
+backroom = a room that is situated at the back of a building, especially a private room
+backroom = can use backroom to refer to people in an organization who do important work but are not seen or known about by the public.; you can also use backroom to refer to a place where such people work.
+influence peddling = the use of position or political influence on someone's behalf in exchange for money or favours; (정치가의) 불법적인 영향력 행사
+corruption = dishonest or illegal behavior especially by powerful people (such as government officials or police officers, politicians)
+rampant = very common or spreading very quickly and in a way that is difficult to control; growing quickly and in a way that is difficult to control
+ethical = involving questions of right and wrong behavior, relating to ethics; following accepted rules of behavior, morally right and good
+suit yourself = do what you want to do; (마음에 안 들긴 하지만) 좋을 대로 해라
+
+# 0577 - magic and illusions (entertainment + sports)
+illusion = something that looks or seems different from what it is; something that is false or not real but that seems to be true or real 
+trick = an action that is meant to deceive someone; something done to surprise or confuse someone and to make other people laugh; a clever and skillful action that someone performs to entertain or amuse people
+blow someone's mind = strongly affect someone's mind with shock, confusion, etc.; to amaze or overwhelm someone's mind
+smoke and mirrors = something that seems good but is not real or effective and that is done especially to take attention away from something else that is embarrassing or unpleasant; 교묘한 속임(수), 마술같이 속이는 것
+impressive = deserving attention, admiration, or respect; making a good impression
+sleight of hand = quick or deceptive hand movements that are used especially to perform magic tricks; the act of tricking or deceiving someone in a clever way
+misdirection = the action or process of directing someone to the wrong place or in the wrong direction
+mind reader = someone who is able to know another person's thoughts without being told what they are; someone who is able to read minds
+trapdoor = a door that covers or hides an opening in a floor or ceiling
+supernatural = unable to be explained by science or the laws of nature; of, relating to, or seeming to come from magic, a god, etc.
+debunk = show that something (such as a belief or theory) is not true; show the falseness of (a story, idea, statement, etc.)
+the power of suggestion = 연상의 힘
+jaded = feeling or showing a lack of interest and excitement caused by having done or experienced too much of something; 물린, 싫증난
+gullible = easily fooled or cheated; naive, credulous, complaisant
+
+# 0578 - eating a home-cooked meal (food + drink)
+not have the heart (to do something) = not be able or willing to do something which could hurt somebody else
+slave over = work very hard for(over)
+lavish = giving or using a large amount of something; given in large amounts
+labor of love = (보수없이) 자진해서[좋아서] 하는 일, 봉사 활동
+cut corners = save time or money by doing less than you usually do or than you should do; do things in the easiest, quickest or cheapest way and not in the proper way
+do something from scratch = do something from the beginning, not using any work done earlier
+pass down = give (something) to a younger person especially within the same family; (후대에) ~을 물려주다[전해주다] (=hand down)
+intricate = having many parts
+crave = have a very strong desire for (something)
+comfort food = food that is satisfying because it is prepared in a simple or traditional way and reminds you of home, family, or friends
+입맛(구미)를 돋우다 = make one's mouth water; stimulate[sharpen, whet] one's appetite; arouse[excite] one's interest
+I (will) tell you what = used to introduce a suggestion or a new topic of conversation; 이렇게 하면 어떨까, 있잖아(제안을 하려고 할 때 씀)
+
+# 0579 - telling people where you’re from (about you, travel)
+native = born in a particular place; used to refer to the place where a person was born and raised
+quite a bit = a fairly large amount, a lot
+adopt = take a child of other parents legally as your own child; begin to use or have (a different manner, method, etc.); begin to use (a name that is not your real or original name)
+hometown = the city or town where you were born or grew up
+show around = act as a guide for someone who is visiting a place, lead (someone) around a place and point to and talk about the interesting or important things you see
+acquaint = cause (someone) to know and become familiar with something
+acquaint somebody/yourself with something  = make somebody/yourself familiar with or aware of something
+catch up = spend extra time doing all the work, tasks, etc. that you should have done earlier; find out about things that have happened
+local = a person who lives in a particular area, city, or town; a local person
+hang out = spend time relaxing, talking, or doing something with (someone); hang around with (someone)
+newcomer = a person who has recently arrived somewhere or who has recently started a new activity
+Welcome Wagon = a vehicle bringing gifts and samples from local merchants to newcomers in a community; 신참자 환영인[단]
+
+# 0580 - retiring from a job (business)
+retire = stop a job or career because you have reached the age when you are not allowed to work anymore or do not need or want to work anymore
+retire vs. resign
+glimpse = look at or see (something or someone) for a very short time; a brief or quick view or look
+golden handshake = a large amount of money that a company gives to an employee who is leaving the company
+generous = freely giving or sharing money and other valuable things; providing more than the amount that is needed or normal; abundant or ample; showing kindness and concern for others
+nest egg = an amount of money that is saved over a usually long period of time to pay for something in the future
+in one's shoes = ~의 입장이 되어, 입장을 바꿔놓고
+hem and haw = procrastinate; take a long time before doing something or taking a decision; (결정이나 말을 하기 전에) 오래 망설이다
+procrastinate = be slow or late about doing something that should be done; delay doing something until a later time because you do not want to do it, because you are lazy, etc.; (해야 할 일을 보통 하기가 싫어서) 미루다[질질 끌다]
+work up = make (someone) feel very angry, excited, upset, etc.; get somebody worked up
+trade places (with) = be in someone else's situation; (~와) 자리를 바꾸다, 입장을 바꾸다.
+card-carrying = known as an active member of a group or organization
+AARP = American Association of Retired Persons
+all the time = during the whole of a particular period of time; very often, repeatedly
+
+# 0581 - reading a world map (travel)
+globe = an object that is shaped like a large ball with a map of the world on it
+adventurous = not afraid to do new and dangerous or exciting things
+compass = a device that is used to find direction by means of a needle that always points north
+continent = one of the great divisions of land (such as North America, South America, Europe, Asia, Africa, Australia, or Antarctica) of the Earth
+geography = an area of study that deals with the location of countries, cities, rivers, mountains, lakes, etc.; 지리학
+equator = an imaginary circle around the middle of the Earth that is the same distance from the North Pole and the South Pole; 적도
+latitude vs. longitude
+not make head nor tail = if you say that you cannot make head nor tail of something or you cannot make head or tail of it, you are emphasizing that you cannot understand it at all.
+vital statistics = the vital statistics of a population are statistics such as the number of births, deaths, or marriages which take place in it.
+vital statistics = someone's vital statistics, especially a woman's, are the measurements of their body at certain points, for example at their chest, waist, and hips.
+
+# 0582 - a parent-teacher conference (education)
+go beyond = do more than (something); be greater, better, etc. than something
+attentive = thinking about or watching something carefully, paying careful attention to something
+hand in = give (something) to a person who will review or accept it; (과제물 등을) 제출하다[내다], (분실물 등을) 인계하다
+on time = at or before the correct moment, at a time that is not late
+in time = before something happens, early enough
+portfolio = a flat case for carrying documents or drawings; a set of drawings, paintings, or photographs that are presented together in a folder; the investments that are owned by a person or organization
+work on = be in the process of making (something), doing (something), etc.; make an effort to do (something)
+behave = act in an acceptable way, to act properly <-> misbehave
+lose one's temper = fail to retain composure when angry
+temper tantrum = any fit of bad temper, especially kicking, screaming or deliberately holding the breath.
+cooperative = willing to be helpful by doing what someone wants or asks for; involving two or more people or groups working together to do something
+get ahead = make more progress than other people, companies, etc.; to become successful in your life or career
+
+# 0583 - going to a spa (health + medicine)
+spa = a place where water that has many minerals in it comes up naturally from the ground and where people go to improve their health by swimming in, bathing in, or drinking the water
+spa = a place where people go to improve their health and appearance by exercising, relaxing, etc.
+paradise = a very beautiful, pleasant, or peaceful place that seems to be perfect; a place that is perfect for a particular activity or for a person who enjoys that activity; a state of complete happiness
+rejuvenate = make (someone) feel or look young, healthy, or energetic again; give new strength or energy to (something); 다시 젊어 보이게[젊은 기분이 들게] 하다, 활기를 되찾게 하다
+holistic = relating to or concerned with complete systems rather than with individual parts
+pamper = treat (someone or something) very well; to give (someone or something) a lot of attention and care; 소중히 보살피다, 애지중지하다 (=cosset)
+scrub = the act of rubbing something hard with a rough object or substance and often with soap in order to clean it; the act of scrubbing something
+scalp = the skin on the top of your head where hair grows
+calm[quiet, soothe] one's nerves = 신경을 진정시키다
+manicures = a treatment to improve the appearance and health of the hands and fingernails
+pedicure = a treatment to improve the appearance and health of the feet or toenails
+waxing = the process of removing unwanted hair from a part of the body by applying wax and peeling off the wax and hairs together
+sign up = sign your name on a document or list in order to get, do, or take something
+
+# 0584 - calling in sick to work (business)
+call in sick = report by telephone that one will be absent because of illness
+fed up with = very tired of (something), angry about (something that has continued for a long time)
+pepper with = hit (someone) repeatedly with your fists or with objects; put a small amount of (something) on many different parts of (a surface); put something in many places in (a story, speech, etc.)
+pepper with = ~에게 ~을 (특히 총알을) 계속 뿌리다[퍼붓다]
+come down with something = get an illness, often not a very serious one
+throw up = have the food, liquid, etc., that is in your stomach come out through your mouth; vomit
+food poisoning = sickness caused by bacteria or chemicals in food
+24-hour (stomach) bug = 음식을 잘못 먹어서 생기는 위장염; 너무 아팠는데 자고 일어났더니 하나도 아프지 않을 때
+take a/the day off = decide not to work on a particular day
+in a row = following one after another; happening one after another, consecutively
+recovery = the act or process of becoming healthy after an illness or injury, the act or process of recovering; the act or process of returning to a normal state after a period of difficulty
+
+# 0585 - being clear or confusing (about you)
+confuse = make (someone) uncertain or unable to understand something; make (something) difficult to understand
+keep straight = avoid confusing or mixing up something, keep something clear or organized.
+convoluted = very complicated and difficult to understand; having many twists and curves
+twists and turns = complicated dealings or circumstances; surprising changes
+twist and turn = curve or change direction often; move with twisting motions, be restless and change position often
+straightforward = easy to do or understand, not complicated; honest and open
+for once = 이번 (한번)만은
+complex = having parts that connect or go together in complicated ways; not easy to understand or explain, not simple
+go off on a tangent = start talking about something that is only slightly or indirectly related to the original subject; 갑자기 옆길로 새다; 갑자기 다른 방향으로 나아가다
+irrelevant = not important or relating to what is being discussed right now; not relevant
+contradict = say the opposite of (something that someone else has said), deny the truth of (something); deny or disagree with what is being said by (someone)
+intricate = having many parts; (여러 부분·내용으로 되어 있어) 복잡한
+crystal clear = perfectly clear; able to be seen through completely; perfectly easy to understand
+detail = a small part of something; a particular fact or piece of information about something or someone
+delusions of grandeur = if someone has delusions of grandeur, they think and behave as if they are much more important or powerful than they really are.
+
+# 0586 - getting a girlfriend/boyfriend back (relationships + family)
+cause = something (such as an organization, belief, idea, or goal) that a group or people support or fight for; (정치사회적 운동) 조직[대의명분/이상]
+a lost cause = an ambition, project or aim which seems certain to end in failure
+break up = end a romantic relationship, marriage, etc.; end or cause (something) to end
+prove someone wrong = show that what someone says is wrong or incorrect
+let bygones be bygones(, and fair play for time to come) = let all past wrongs be forgotten, with a resumption of cordial relations
+dupe = deceive or trick (someone) into believing or doing something that is not true
+empty promise = a promise that is either not going to be carried out, worthless or meaningless.
+within reason = within reasonable or sensible limits; on the condition that it is sensible or reasonable; 온당한 범위 내에서
+rake something up = talk about something unpleasant that has happened in the past, which people would like to forget
+sincere = having or showing true feelings that are expressed in an honest way
+crazy about someone = ~에 미치다, 열광[열중]하다
+make effort = endeavor, work hard; 노력하다
+pride comes before a fall = if you are too proud or confident, something may happen which will make you look foolish
+get down on one’s knees = kneel down; 무릎을 꿇고 빌다
+beg someone for something = ask (someone) in a very serious and emotional way for something needed or wanted very much
+
+# 0587 - feeling disillusioned (about you)
+disillusioned = having lost faith or trust in something; disappointed that something is not as good, valuable, true, etc., as it had seemed; 환멸을 느낀, 환상이 깨진
+stand/wait in line = when people stand in line or wait in line, they stand one behind the other in a line, waiting their turn for something
+emulate = try to be like (someone or something you admire)
+idol = a greatly loved or admired person
+do no wrong = never do anything bad
+as far as I'm concerned = 내가 관여한 바로는, 내 입장에서는, 나로선
+you have everything going for you = 너의 모든 일이 잘 풀리고 있다.
+paragon = a person or thing that is perfect or excellent in some way and should be considered a model or example to be copied; 귀감, 모범
+preconceived = formed before having actual knowledge about something or before experiencing something
+notion = an idea or opinion; an idea about doing something, a sudden wish or desire; 개념, 관념, 생각
+shatter = break suddenly into many small pieces; damage (something) very badly
+picture = have a thought, understanding, or idea about (something or someone); imagine
+diva = the main female singer in an opera company; a famous and successful woman who is very attractive and fashionable
+burst someone's bubble = cause someone to suddenly realize that something is not really good, true, etc.
+pedestal = (기둥/동상 등의) 받침대
+put(place) someone on a pedestal = give someone uncritical respect or admiration, treat someone as an ideal rather than a real person
+(local/global) celebrity = a person who is famous
+idolize = love or admire (someone) very much or too much
+least of all = especially not; 가장 ~이 아니다, 특히 ~하지 않다
+
+# 0588 - hiring business consultants (business)
+consultant = a person who gives professional advice or services to companies for a fee
+expansion = the act of becoming bigger or of making something bigger, the act of expanding
+expertise = special skill or knowledge, the skill or knowledge an expert has
+employee benefit = a non-wage compensation provided to an employee in addition to his normal wage or salary
+what’s not to like? = 안 좋아할 이유가 있나요? 안 좋을게 뭐가 있겠어? 도대체 이유가 뭐야?
+no-brainer = a decision or choice that is very easy to make and requires very little thought; (별로 생각을 요하지 않는) 쉬운 결정[문제]
+call the shots = be in charge or control of something
+company loyalty = 기업충성도
+break a contract = terminate a business relationship
+leave somebody in the lurch = leave someone without help or protection when it is needed; 곤경에 빠뜨리다, 어려운 상황에 버리고 가다
+a thing of the past = something that no longer happens or exists; 과거의 일
+take one step at a time = progress gradually and carefully from one stage to the next
+contract = make an agreement by contract to work or to pay someone to work; a legal agreement between people, companies, etc.
+live with something = accept an unpleasant situation and continue with your life and work
+drag one’s feet = walk slowly and wearily or with difficulty; be deliberately slow or reluctant to act; 꾸물거리다(= move very slowly or refuse to act)
+tow = pull (a vehicle) behind another vehicle with a rope or chain; 끌다/견인하다
+
+# 0589 - having skin problems (health + medicine)
+rash = a group of red spots on the skin that is caused by an illness or a reaction to something; 발진
+rash = done or made quickly and without thought about what will happen as a result
+examine = look at (something) closely and carefully in order to learn more about it, to find problems, etc.; test or look carefully at (something or someone) for signs of illness or injury; question (someone) closely
+investigate = try to find out the facts about (something, such as a crime or an accident) in order to learn how it happened, who did it, etc.; try to get information about (someone who may have done something illegal)
+start out = begin a journey; begin in a particular way, especially in business or work
+blister = a raised area on the skin that contains clear liquid and that is caused by injury to the skin; 물집, 수포
+itch = an uncomfortable or unpleasant feeling on your skin or inside your mouth, nose, etc., that makes you want to scratch
+infect = cause (someone or something) to become sick or affected by disease
+infection = the act or process of infecting someone or something, the state of being infected; a disease caused by germs that enter the body; (비접촉성) 감염, 전염
+contagion = the process by which a disease is passed from one person or animal to another "by touching"; (접촉성) 전염
+get ahead of = act or plan prematurely or overconfidently; 김칫국을 마시다, (어떤 일이 진행되기 전에 미리) 큰 기대를 하다
+while one is at it = while you're doing that; while you're carrying out that action
+bump = an area of skin that is raised because it was hit, injured, etc.; (부딪치거나 맞아서 생긴) 혹, 타박상
+mole = a small, brown spot on a person's skin; (피부 위에 작게 돋은 진갈색) 점
+birthmark = an unusual mark that is present on the skin from the time when someone is born; 출생점, 모반
+lump = a small piece or mass of something; an area of swelling or growth on your body; (보통 특정한 형태가 없는) 덩어리, 응어리
+wart = a small, hard lump on the skin caused by a virus; (피부에 생기는) 무사마귀
+scar = a mark that is left on your skin after a wound heals; a mark on something showing where it has been damaged; 
+scar = a feeling of great emotional pain or sadness that is caused by a bad experience and that lasts for a long time
+treatment = something that deals with a disease, injury, etc., in order to make someone feel better or become healthy again; medical care
+pimple = a small, red, swollen spot on the skin; 여드름, 뽀루지
+acne = a condition in which the skin on a person's face, neck, etc., has many small, swollen spots (called pimples); 여드름
+
+# 0590 - paying airline fees (travel)
+rate = 요금, ~료
+charge = (상품/서비스에 대한) 요금
+fee = (전문적인 서비스에 대한) 수수료; (조직/기관 등에 내는) 요금[회비/가입비]
+fare = (교통)요금, 운임
+toll = 통행료
+rental = 사용료, 임대료 (집세, 방세, 지대, 임차료)
+tack something on = if you say that something is tacked on to something else, you think that it is added in a hurry and in an unsatisfactory way.; (특히 아무렇게나) ~을 (~에) 덧붙이다[보태다]
+surcharge = an amount of money that must be paid in addition to the regular price; fuel surcharge(유류할증)
+a whole slew of = a large number or amount something, very much
+checked baggage vs. unchecked baggage = 위탁 수하물 vs. 기내 휴대 수하물
+justify = provide or be a good reason for (something); to prove or show (something) to be just, right, or reasonable; provide a good reason for the actions of (someone)
+shell out ( shell something out ) = pay for something, especially when it is a lot of money or you do not really want to
+standby = (필요하면 언제나 쓸 수 있는) 예비품[대기자/비상용품]; (비행기 표 등이) 대기자용의[사용 시간 직전에 구할 수 있는]
+work up = make (someone) feel very angry, excited, upset, etc.; get somebody worked up
+nickle and dime = charge several unexpected small amounts of money, often in the form of fees, taxes, or related expenses to a venture, which when taken as a whole add up to a significant unexpected cost
+turn back = move in the opposite direction in order to return to a place
+
+# 0591 - handling a traffic stop (transportation)
+siren = a piece of equipment that produces a loud, high-pitched warning sound
+flash = shine or give off bright light suddenly or in repeated bursts
+pull off = leave the road in order to stop for a short time; (정차하기 위해 도로를) 벗어나다/(도로 밖으로) ~을 빼다
+the police officer asks for driver’s license, proof of insurance, and car registration when you are stopped by him for violation of the traffic regulations.
+glove compartment (glove box) = a small storage area in front of the front seat of a car, truck, etc
+sit tight = do not move or change your position; stay where you are
+outstanding = extremely good or excellent; easy to notice especially because of being important or very good; not yet paid; 아직 처리되지 않은, 미지불된, 미해결된
+warrant = (체포수색 등을 허락하는) 영장
+citation = an official order to appear before a court of law; 소환장
+let somebody off (with) something = allow somebody not to do something or not to go somewhere; ~에게 ~하는 것을 면하게 해 주다; (처벌하지 않거나 가벼운 처벌로) ~를 봐주다
+incriminate = cause (someone) to appear guilty of or responsible for something (such as a crime); ~가 잘못한[유죄인] 것처럼 보이게 하다
+
+# 0592 - dealing with website hackers (business,technology)
+embed = place or set (something) firmly in something else
+malicious = having or showing a desire to cause harm to another person, having or showing malice (= malevolent, spiteful, wicked, vicious)
+vulnerable = easily hurt or harmed physically, mentally, or emotionally
+pay the price = suffer as a result of bad luck, a mistake or something you have done
+backup = help or support provided by additional people or things
+twenty-four-seven(24/7) = twenty-four hours a day, seven days a week; constantly; all the time
+take measures = take action to achieve a particular purpose
+wreak = cause (something very harmful or damaging)
+havoc = a situation in which there is much destruction or confusion
+wreak havoc (in/on/with ~) = 큰 피해를 입히다
+
+# 0593 - staying home from school (education, health + medicine)
+play hooky(hookey) = be away from school without permission, not be at school when you should be; 수업을 빼먹다
+deceive = make (someone) believe something that is not true
+put one over on somebody = get (someone) to accept or believe a claim, excuse, etc, by deception; [남]을 속이다
+fake = make (something) seem real or true in order to trick someone
+give somebody a hard time = make somebody's life very difficult because you do not like them
+cut[skip] (a) class = 수업을 빼먹다
+foolproof = done, made, or planned so well that nothing can go wrong; 실패할[잘못될] 염려가 없는(infallible)
+forge = make or copy (something, such as a document or signature) falsely in order to deceive someone; counterfeit
+keep one's eyes and ears open for signs = 촉각을 곤두세우고 있다
+pretend = act as if something is true when it is not true
+excuse = forgive someone for making a mistake, doing something wrong, etc.; say that (someone) is not required to do something; allow (someone, such as a child) to leave
+out of the goodness of one's heart = motivated by kindness and generosity rather than the hope of personal gain; (자신의 이익 때문이 아니라) 단지 친절한 마음에서
+I owe you one = 고마워, 신세 졌어, I owe you a lot = 큰 빚을 졌어
+you scratch my back and i'll scratch yours = used to say that if somebody helps you, you will help them, even if this is unfair to others
+
+# 0594 - competition and prizes (entertainment + sports)
+take somebody on = compete against (a person, team, etc.); ~와 시합을 하다[겨루다/싸우다]
+chicken = too afraid to do something; cowardly
+bring it on! = used to say that you are happy that a difficult or challenging situation is coming because you are sure that you can overcome it
+trounce = defeat (someone or something) easily and thoroughly; 완파하다
+know(teach) a thing or two about something = ~에 대해 잘 알고있다(가르쳐주다); help somebody, or teach somebody how to do something, because you have more experience
+humiliate = make (someone) feel very ashamed or foolish; 굴욕감(창피)을 주다
+trash talk (trash talking) = insulting comments that are made especially to an opponent in a contest, game, etc; (특히 맞서고 있는 상대를) 기죽이는 말
+stakes are high = 리스크가 크다, 위험성이 높다; high/low stakes
+brag = talk about yourself, your achievements, your family, etc., in a way that shows too much pride
+bragging rights = a good reason(right) to talk with pride about something you have done
+
+# 0595 - suffering from allergies (health + medicine)
+allergy = a medical condition that causes someone to become sick after eating, touching, or breathing something that is harmless to most people
+be allergic to = having an allergy
+sneeze = suddenly force air out through your nose and mouth with a usually loud noise because your body is reacting to dust, a sickness, etc.
+cough = force air through your throat with a short, loud noise often because you are sick
+itch = an uncomfortable or unpleasant feeling on your skin or inside your mouth, nose, etc., that makes you want to scratch
+watery = containing or filled with water or a similar liquid
+tilt = lift or move (something) so that one side is higher than another side; 기울이다, 젖히다
+recline = sit back or lie down in a relaxed manner; lean backward
+nasal = of or relating to the nose; nasal passages(콧구멍)
+congested = too full or crowded with something (such as vehicles or people)
+sinus = any of several spaces in the skull that connect with the nostrils; 부비강(두개골 속의, 코 안쪽으로 이어지는 구멍)
+spot = a small area of a surface that is different from other areas; 반점
+hives = a condition in which an area of your skin becomes red and itchy; 두드러기; [영] (목의) 염증
+shortness of breath = difficulty breathing; short of breath
+out of breath = gasping for air, typically after exercise
+constrict = make (something) narrower, smaller, or tighter; become narrower, smaller, or tighter; prevent or keep (something or someone) from developing freely
+severe = very bad, serious, or unpleasant; causing a lot of physical pain or suffering
+serious, grave, severe, critical = (병/증세가) 심각한
+disease, illness, sickness, disorder = 병 또는 질병
+allergist = a doctor who is an expert in the treatment of allergies
+refer someone to somebody = send someone to a particular person or place for treatment, help, advice, etc.
+symptom = a change in the body or mind which indicates that a disease is present; a change which shows that something bad exists, a sign of something bad
+
+# 0596 - applying for unemployment benefits (business)
+unemployment benefit = money paid by the government, special-purpose fund or similar to those who are unemployed and looking for work; 실업수당
+agency = a business that provides a particular service; a government department that is responsible for a particular activity, area, etc.
+it depends (that depends) = used to express uncertainty in answering a question
+income, earnings, revenue = 수입
+expense, spending, expenditure = 지출
+lay off = stop employing (someone) because there is not enough work
+fire = dismiss (someone) from a job
+dismiss = officially make (someone) leave a job; end the employment or service of (someone)
+qualify = have the necessary skill or knowledge to do a particular job or activity; have the qualifications to do something
+eligible = able to be chosen for something, able to do or receive something
+affirm = say that something is true in a confident way; show a strong belief in or dedication to (something, such as an important idea)
+look for a job(position), job hunt, search for a job, seek employment = 구직활동하다
+hire = give work or a job to (someone) in exchange for wages or a salary
+
+# 0597 - describing touch and textures (daily life)
+touch = the quality of a thing that is experienced by feeling or touching it
+texture = the way that something feels when you touch it; the way that a food or drink feels in your mouth; (직물 등의) 감촉[질감]
+power failure = a power failure is a period of time when the electricity supply to a particular building or area is interrupted, for example because of damage to the cables
+bazaar = a type of market found especially in Middle Eastern countries that has rows of small shops which sell many different kinds of things
+bazaar = an event at which things are sold to raise money for people or an organization
+lead the way = go in front of somebody in order to show them the way
+rough = having a surface that is not even(<-> smooth); having or causing sudden, violent movements; difficult or unpleasant to deal with
+trip over = hit your foot against something while you are walking or running so that you fall or almost fall
+disgusting = so unpleasant to see, smell, taste, consider, etc., that you feel slightly sick
+gross = rude or offensive; very disgusting
+slime = a thick, slippery liquid; a very bad, unpleasant, or dishonest person
+slimy = covered with slime; resembling slime
+greasy = covered with grease or oil, dirty from grease or oil
+tingly = having a feeling like the feeling of many small sharp points pressing into your skin; 따끔거리는, 얼얼한
+bump = a small raised area on a surface
+bumpy = (a surface) having or covered with bumps; having sudden up and down movements
+
+# 0598 - suggesting a nightcap (relationships + family)
+nightcap = a drink that you have just before you go to bed at night and that usually has alcohol in it
+slur = say (something) in an unclear way especially because you are drunk or tired
+set somebody up = (누군가에게) 소개팅을 주선해 주다
+soul mate = a person who completely understands you and is perfectly suited to be in a loving relationship with you
+dreamy = very attractive
+make it worth a person's while = 남의 노고에 보답하다
+rain check = a ticket given to people so that they can go to another event (such as a baseball game) if the one they were watching or planning to go to is canceled or stopped because of rain
+rain check = a promise to allow someone to buy or do something in the future because it is not possible to buy or do it now
+the night is young = it's not very late (at night) and there's plenty of time.
+let's make it another time = 다음에 하자
+spoiltsport = someone who spoils other people's fun or enjoyment
+drop-dead gorgeous = very attractive or impressive
+intention = the thing that you plan to do or achieve, an aim or purpose
+
+# 0599 - shopping for warm-weather clothes (clothing + grooming, shopping)
+outfit = a set of clothes that are worn together
+tank top = a shirt that has no sleeves or collar and usually has wide shoulder straps
+no way = used to say that you will definitely not do something; used to show that you are very surprised by something or do not believe that something is true
+mannequin = a figure shaped like a human body that is used for making or displaying clothes
+shy = feeling nervous and uncomfortable about meeting and talking to people
+revealing = giving information about something that was not known before; showing parts of the body that are usually hidden from view
+cut-off = short pants that are made from long pants by cutting off the legs at the knees or higher
+flip-flop = a type of loose rubber sandal
+figure = the shape or form of a person's body; (특히 여성의 매력적인) 몸매
+hawaiian shirt (aloha shirt) = 하와이안 셔츠(무늬가 화려하고 헐렁한 반소매 면 셔츠)
+board-shorts = a type of short pants
+
+# 0600 - talking about sight (business, health + medicine)
+medication = a substance used in treating disease or relieving pain
+medicine = a substance that is used in treating disease or relieving pain and that is usually in the form of a pill or a liquid
+mess with = cause trouble for (someone), deal with (someone) in a way that may cause anger or violence
+vision = the ability to see; sight or eyesight
+blurry = 흐릿한, 모호한
+blur = make (something) unclear or difficult to see or remember; become unclear or difficult to see or remember
+flake out = if you flake out, you collapse, go to sleep, or totally relax because you are very tired; (극도로 지쳐서) 나가[곯아]떨어지다
+(as) blind as a bat = nearly totally blind, having a very poor sense of vision
+put in an appearance = if you put in an appearance at an event, you go to it for a short time although you may not really want to, but do not stay.(= show your face)
+sharp = having or showing a quick ability to notice and understand things
+make out = see and identify (something); hear and understand (something)
+blindside = hit (someone who is facing in another direction) suddenly and very hard; surprise or shock (someone) in a very unpleasant way
+do more harm than good = inadvertently make a situation worse rather than better
+see double = see two things when only one thing is present; 2개로 보이다
+x-ray vision = vision into the x-ray portion of the light spectrum, enabling visibility through certain solid matter
+impair = make (something) weaker or worse (=injure); 손상시키다

@@ -1,0 +1,671 @@
+# vim: ft=text ts=4 sw=4 tw=999 expandtab
+# ----------------------------------------------------------------------------
+
+# 0301 buying a men's suit (clothing + grooming)
+sales clerk(us), shop assistant(br)
+suits -> jacket and pants
+fabric is cloth or other material produced by weaving together cotton, nylon, wool, silk, or other threads.
+fabrics are used for making things such as clothes, curtains, and sheets.
+'contemporary' things are modern and relate to the present time.
+try on = put on (an article of clothing) to find out whether it fits or is suitable
+Someone or something that is suitable for a particular purpose or occasion is right or acceptable for it.
+Pinstripes are very narrow vertical stripes found on certain types of clothing. Businessmen's suits often have pinstripes. 가는 세로줄 무늬(보통 짙은 색상의 정장용 직물에 많이 쓰임)
+wool = wool is the hair that grows on sheep and on some other animals.(a kind of fabric)
+double-breasted = a double-breasted jacket or suit has two very wide sections at the front of the jacket which fit over one another when you button them up.
+pleat = a pleat in a piece of clothing is a permanent fold that is made in the cloth by folding one part over the other and sewing across the top end of the fold. -> pleated
+When things such as clothes are dry-cleaned, they are cleaned with a liquid chemical rather than with water.
+A vest is a piece of underwear which you can wear on the top half of your body in order to keep warm.
+I'll ring you up.
+Suspenders are a pair of straps that go over someone's shoulders and are fastened to their trousers at the front and back to prevent the trousers from falling down.
+A garment is a piece of clothing; used especially in contexts where you are talking about the manufacture or sale of clothes. a garment bag = a bag for clothes
+
+# 0302 a problem with a restaurant check (money)
+pay attention to vs. get someone's attention
+wag = move something from side to side repeatedly; 
+wave one's hand, wagging one's tail
+a meal = appetizer + main dish + dessert
+If you adjust something, you change it so that it is more effective or appropriate.
+take something off = remove something from somewhere
+take off <-> land on
+two-for-one coupon
+If you charge someone an amount of money, you ask them to pay that amount for something that you have sold to them or done for them.
+If you present someone with something such as a prize or document, or if you present it to them, you formally give it to them.
+make an exception = allow somebody not to follow the usual(regular) rule on one occasion
+
+# 0303 a traditional wedding (relationships + family)
+a wedding = the act of getting married
+wedding -> religious/civil ceremony
+a minister is a member of the clergy, especially in protestant churches.
+officiate = when someone officiates at a ceremony or formal occasion, they are in charge and perform the official part of it.
+a woman's fiance is the man to whom she is engaged to be married.
+a man's fiancee is the woman to whom he is engaged to be married.
+matrimony = marriage, getting married
+hold your peace/tongue = say nothing; remain silent although you would like to give your opinion
+a bride / a bridegroom
+
+# 0304 a potential partnership meeting (business)
+synergy = if there is synergy between two or more organizations or groups, they are more successful when they work together than when they work separately.
+have somebody/something in mind (for something) = be planning to ask somebody to do a job, or use something to do a job
+core = the core businesses or the core activities of a company or organization are their most important ones.
+complement = if one thing complements another, it goes well with the other thing and makes its good qualities more noticeable.
+you use mutual to describe a situation, feeling, or action that is experienced, felt, or done by both of two people mentioned.
+think along the same lines
+pull something off = (informal) to succeed in doing or achieving something difficult
+to dominate a situation means to be the most powerful or important person or thing in it.
+perspective = a particular perspective is a particular way of thinking about something, especially one that is influenced by your beliefs or experiences.
+approach = when you approach something, you get closer to it.
+be under the impression that ~
+concrete = you use concrete to indicate that something is definite and specific. <-> abstract
+proposal = a proposal is a plan or an idea, often a formal or written one, which is suggested for people to think about and decide upon.
+suggestion = if you make a suggestion, you put forward an idea or plan for someone to think about.
+consider = if you consider something, you think about it carefully.
+consider = if you are considering doing something, you intend to do it, but have not yet made a final decision whether to do it.
+
+# 0305 describing people's body types (about you)
+broad-shouldered
+petite = if you describe a woman as petite, you are politely saying that she is small and is not fat.
+thin = a person or animal that is thin has no extra fat on their body.
+slender = a slender person is attractively thin and graceful.
+pear-shaped = if someone, especially a woman, is pear-shaped, they are wider around their hips than around the top half of their body.
+hourglass figure
+skinny = a skinny person is extremely thin, often in a way that you find unattractive.
+stocky = a stocky person has a body that is broad, solid, and often short.
+muscular = if a person or their body is muscular, they are very fit and strong, and have firm muscles which are not covered with a lot of fat.
+flabby = Flabby people are rather fat, with loose flesh over their bodies.
+long-legged
+drop out = stop taking part in an activity, being a member of a group, etc., leave school, college, university, etc. without finishing your studies
+
+# 0306 giving first aid (health + medicine)
+aide = a person whose job is to assist someone who has an important job, especially in government or in the armed forces. nurse's aide, assistant
+poison ivy is a wild plant that grows in north america and that causes a rash or skin problems if you touch it.
+bee sting, bug bite
+scrape = If you scrape a part of your body, you accidentally rub it against something hard and rough, and damage it slightly.
+unconscious = Someone who is unconscious is in a state similar to sleep, usually as the result of a serious injury or a lack of oxygen.
+cpr = cardiopulmonary resuscitation
+concussion = if you suffer concussion after a blow to your head, you lose consciousness or feel sick or confused.
+superficial = superficial injuries are not very serious, and affect only the surface of the body. you can also describe damage to an object as superficial.
+stitch = When doctors stitch a wound, they use a special needle and thread to sew the skin together.
+injury = an injury is damage done to a person's or an animal's body.
+wound = a wound is damage to part of your body, especially a cut or a hole in your flesh, which is caused by a gun, knife, or other weapon.
+hazardous = something that is hazardous is dangerous, especially to people's health or safety.
+
+# 0307 cable and satellite tv (entertainment + sports | technology)
+cable tv vs. satellite tv
+satellite dish = a satellite dish is a piece of equipment which people need to have on their house in order to receive satellite television.
+charge (상품/서비스에 대한) 요금, a charge is an amount of money that you have to pay for a service.
+fee = (전문적인 서비스에 대한) 수수료, (조직/기관 등에 내는) 요금[회비/가입비 등], a fee is the amount of money that a person or organization is paid for a particular job or service that they provide.
+fare = (교통) 요금, A fare is the money that you pay for a journey that you make, for example, in a bus, train, or taxi.
+deposit = a deposit is a sum of money which you pay when you start renting something. the money is returned to you if you do not damage what you have rented.
+outright = complete and total
+pay-per-view = Pay-per-view is a cable or satellite television system in which you have to pay a fee if you want to watch a particular programme.
+round-the-clock = for twenty-four hours without stopping
+drop by = pay a short, informal visit to somebody, often without arranging this in advance
+
+# 0308 formatting a document (business)
+figure somebody/something out = come to understand somebody/something by thinking carefully
+margin = The margin of a written or printed page is the empty space at the side of the page.
+She added her comments in the margin.
+adjust = If you adjust something, you change it so that it is more effective or appropriate.
+orientation = The orientation of a structure or object is the direction it faces.
+a document's page -> portrait or landscape
+stick = If one thing sticks to another, it becomes attached to it and is difficult to remove.
+
+# 0309 describing distances and giving directions (travel)
+how to get to or arrive at somewhere
+drugstore = In the United States, a drugstore is a shop where drugs and medicines are sold or given out, and where you can buy cosmetics, some household goods, and also drinks and snacks.
+pharmacy = A pharmacy is a shop or a department in a shop where medicines are sold or given out.(prescribed)
+be set back = if a building is set back, it is a long way from something, especially a road
+hang a left = turn left, take a left turn
+roughly = approximately, about, around
+dead end = If a street is a dead end, there is no way out at one end of it.
+kitty-corner = When at an intersection, something that is 'kitty corner' to another will be on the opposite quadrant diagonally from the other.
+
+# 0310 shopping for furniture (home + community | shopping)
+do the job/trick = do what is needed or wanted, meet one's need
+match = If something of a particular colour or design matches another thing, they have the same colour or design, or have a pleasing appearance when they are used together.
+hand something down = give or leave something to a younger person
+dresser = A dresser is a chest of drawers, usually with a mirror on the top.
+headboard = A headboard is an upright board at the end of a bed where you lay your head.
+wardrobe = A wardrobe is a tall cupboard or cabinet in which you can hang your clothes.
+couch = A couch is a long, comfortable seat for two or three people.
+
+# 0311 a mid-life crisis (about you | relationships + family)
+trade something in = give something that you have used to somebody you are buying something new from as part of your payment
+pass over = not consider somebody for a better job, especially when they deserve it or think they deserve it
+reflect on = When you reflect on something, you think deeply about it.
+washed up = If you say that someone is washed up, you mean that their career or success has ended.
+be fed up with = if you are fed up, you are unhappy, bored, or tired of something, especially something that you have been experiencing for a long time.
+beat around the bush = take too long before saying what you want to say; avoid saying something directly
+
+# 0312 different work styles (business)
+self-directed = 스스로 방향을 정하는, 자발적인
+supervise = If you supervise an activity or a person, you make sure that the activity is done correctly or that the person is doing a task or behaving correctly.
+slack off = do something more slowly or work less hard than before
+slacker = If you describe someone as a slacker, you mean that they are lazy and do less work than they should.
+averse = If you say that you are not averse to something, you mean that you quite like it or quite want to do it.
+resourceful = Someone who is resourceful is good at finding ways of dealing with problems.
+follow-through = A follow-through is something that completes an action or a planned series of actions.
+fall through the cracks = (부주의로) 빠지다(=be neglected through error or omission).
+exercise one’s rights [authority, influence] = If you exercise something such as your authority, your rights, or a good quality, you use it or put it into effect.
+take charge (of something) = begin to have control or command
+back off = retreat, abandon
+(you can't) teach an old dog new tricks = (you can't) make old people change their ideas or ways of working, etc
+
+# 0313 a suspicious neighbor (home + community)
+shady = You can describe a place as shady when you like the fact that it is sheltered from bright sunlight, for example by trees or buildings.; (빛이 바로 닿지 않게) 그늘이 드리워진
+shoot the breezze = talk in a friendly, informal way; chat
+shifty = Someone who looks shifty gives the impression of being dishonest.
+evasive = If you describe someone as evasive, you mean that they deliberately avoid giving clear direct answers to questions.
+deliberate = If you do something that is deliberate, you planned or decided to do it beforehand, and so it happens on purpose rather than by chance.(intentional) If a movement or action is deliberate, it is done slowly and carefully.
+busybody = If you refer to someone as a busybody, you are criticizing the way they interfere in other people's affairs.
+neighbourly = If the people who live near you are neighbourly, they are friendly and helpful. If you live in a neighbourly place, it has a friendly atmosphere.
+serial killer = a person who carries out a series of murders
+entitle somebody to something = give somebody a right to have or do something
+leave somebody alone = stop annoying somebody or trying to get their attention
+
+# 0314 buying a digital audio (mp3) player (entertainment + sports | technology)
+portable = A portable machine or device is designed to be easily carried or moved.
+rip = If you rip something away, you remove it quickly and forcefully.
+watch out for = be quick to notice or be aware of somebody/something, especially somebody/something that might cause you trouble
+proprietary vs. open-source
+backlit = illuminated from behind
+
+# 0315 going to the park (entertainment + sports | nature + weather)
+trail = A trail is a rough path across open country or through forests.(unpaved road)
+scenery = The scenery in a country area is the land, water, or plants that you can see around you.
+come across = meet or find somebody/something by chance, without having planned or thought about it
+bump into something/somebody = meet by chance; encounter unexpectedly
+shade = Shade is an area of darkness under or next to an object such as a tree, where sunlight does not reach.
+spot = small area/place
+every so often = occasionally
+fountain = A fountain is an ornamental feature in a pool or lake which consists of a long narrow stream of water
+that is forced up into the air by a pump.
+warm up = exercise in preparation for and immediately before a game, contest, or more vigorous exercise, get ready for something important; prepare
+in ages
+
+# 0316 business emails and abbreviations (technology)
+headway = If you make headway, you progress towards achieving something.
+venue = The venue for an event or activity is the place where it will happen.
+Rein = Reins are the thin leather straps attached round a horse's neck which are used to control the horse.
+be in line with your thinking
+(be) in/out of line with somebody/something = be in agreement/disagreement with something
+hammer something out = discuss a plan, a deal, etc. for a long time and with great effort, until something is
+decided or agreed on
+wrap something up = cover something in paper or other material, to protect it or because you are giving it to
+somebody as a present, complete something in an acceptable way
+participant = The participants in an activity are the people who take part in it.
+
+# 0317 setting the table (food + drink)
+china = China is a hard white substance made from clay. It is used to make things such as cups, bowls, plates, and
+ornaments.
+linen = Linen is tablecloths, sheets, pillowcases, and similar things made of cloth that are used in the home.
+saucer = A saucer is a small curved plate on which you stand a cup.
+silverware = You can use silverware to refer to all the things in a house that are made of silver, especially the
+cutlery and dishes.
+tine = The tines of something such as a fork are the long pointed parts.
+be in good/bad shape = be in good, bad, etc. health or physical condition
+a ball of nerves = very nervous
+
+# 0318 writing a love song (relationships + family)
+keep something down = make something remain at a low level; avoid increasing something
+It’s none of your business
+serenade somebody = If one person serenades another, they sing or play a piece of music for them. Traditionally
+men did this outside the window of the woman they loved.
+A song -> lyrics + melody
+rhyme = If one word rhymes with another or if two words rhyme, they have a very similar sound. Words that rhyme with each other are often used in poems.
+sappy = soppy = If you describe someone or something as soppy, you mean that they are foolishly sentimental.
+catchy = If you describe a tune, name, or advertisement as catchy, you mean that it is attractive and easy to
+remember.
+a cappella = without instrumental accompaniment
+accompany = If you accompany a singer or a musician, you play one part of a piece of music while they sing or play
+the main tune.
+move = If something moves you, it has an effect on your emotions and causes you to feel sadness or sympathy for
+another person.
+
+# 0319 being under stress (about you)
+act up = behave in a troublesome way
+cope with = deal successfully with something difficult
+pill = Pills are small solid round masses of medicine or vitamins that you swallow without chewing.
+medicine = Medicine is a substance that you drink or swallow in order to cure an illness.
+worn out = Something that is worn out is so old, damaged, or thin from use that it cannot be used any more.
+Someone who is worn out is extremely tired after hard work or a difficult or unpleasant experience.
+lose sleep -> insomnia and worrying about something
+dog-eat-dog = fierce competition, with no concern for the harm done or other people's feelings
+work something out
+breather = If you take a breather, you stop what you are doing for a short time and have a rest.
+
+# 0320 micromanaging the staff (business)
+check up on somebody = ~가 제 할 일을 하고 있는지 확인하다
+micromanage = control (a business or project) with excessive attention to minor details
+look over one’s shoulders
+develop trust = If you develop a skill, quality, or relationship, or if it develops, it becomes better or
+stronger.
+resentful = If you are resentful, you feel resentment. Resentment is bitterness and anger that someone feels about
+something.
+incompetent = If you describe someone as incompetent, you are criticizing them because they are unable to do their job or a task properly.
+control freak = If you describe someone as a particular kind of freak, you are emphasizing that they are very
+enthusiastic about a thing or activity, and often seem to think about nothing else.
+tactic = Tactics are the methods that you choose to use in order to achieve what you want in a particular
+situation.
+disgruntled = If you are disgruntled, you are cross and dissatisfied because things have not happened the way that
+you wanted them to happen.
+resent = If you resent someone or something, you feel bitter and angry about them.
+butt in = rudely interrupt somebody when they are speaking
+
+# 0321 buying a jacket or coat (clothing + grooming | shopping)
+trench coat = A trench coat is a type of raincoat with pockets and a belt. Trench coats are often similar in
+design to military coats.
+raincoat = A raincoat is a waterproof coat.
+overcoat = An overcoat is a thick warm coat that you wear in winter.
+knee-length coat
+parka = A parka is a jacket or coat which has a thick lining and a hood with fur round the edge.
+denim = Denim is a thick cotton cloth, usually blue, which is used to make clothes. Jeans are made from denim.
+blazer = A blazer is a kind of jacket which is often worn by members of a particular group, especially schoolchildren and members of a sports team.
+collar = The collar of a shirt or coat is the part which fits round the neck and is usually folded over.
+hood = A hood is a part of a coat which you can pull up to cover your head. It is in the shape of a triangular bag
+attached to the neck of the coat at the back.
+cuff = The cuffs of a shirt or dress are the parts at the ends of the sleeves, which are thicker than the rest of the sleeve.
+roomy = If you describe a piece of clothing as roomy, you mean that you like it because it is large and fits
+loosely. <-> tight
+bum = A bum is a person who has no permanent home or job and who gets money by working occasionally or by asking people for money.
+fitted = A fitted piece of clothing is designed so that it is the same size and shape as your body rather than being loose.
+trim = if you trim something, for example someone's hair, you cut off small amounts of it in order to make it look neater and tidier.
+trimmed = if something such as a piece of clothing is trimmed with a type of material or design, it is decorated with it, usually along its edges.
+laughing stock = If you say that a person or an organization has become a laughing stock, you mean that they are
+supposed to be important or serious but have been made to seem ridiculous.
+
+# 0322 picking up a rental car (transportation)
+rent = If you rent something, you regularly pay its owner a sum of money in order to be able to have it and use it yourself.
+rental cars -> economy car, mid-sized car, convertible
+stick to something = adhere, continue constantly at, remain faithful to, not to move or digress from
+initial = If someone initials an official document, they write their initials on it, for example to show that they have seen it or that they accept or agree with it.
+decline = if you decline something or decline to do something, you politely refuse to accept it or do it.
+
+# 0323 rooms in a house (home + community)
+babysit = if you babysit for someone or babysit their children, you look after their children while they are out.
+be in a jam = be in a difficult situation
+closet = a closet is a piece of furniture with doors at the front and shelves inside, which is used for storing things.
+basement = the basement of a building is a floor built partly or completely below ground level.
+pantry = a pantry is a small room or large cupboard in a house, usually near the kitchen, where food is kept.
+mew = when a cat mews, it makes a soft high-pitched noise.
+
+# 0324 corporate sponsorship (business)
+fund = When a person or organization funds something, they provide money for it.
+strapped = If someone is strapped for money, they do not have enough money to buy or pay for the things they want or need.
+resistant = Someone who is resistant to something is opposed to it and wants to prevent it.
+sell out = ignore or change your principles or beliefs, especially to gain an advantage for yourself
+benefactor = A benefactor is a person who helps a person or organization by giving them money.
+in exchange (for something)
+exposure = Exposure to something dangerous means being in a situation where it might affect you. Exposure is
+publicity that a person, company, or product receives.
+get on a high horse = 뽐내다, 거만하게 굴다, 대단한 체하다
+all-or-nothing = a situation which will end either in complete success or complete failure
+throw out the baby with the bath = 중요한 것을 허섭쓰레기와 함께 버리다; 전부를 잃다
+
+# 0325 describing people's moods (about you | relationships + family)
+allowance = An allowance is money that is given to someone, usually on a regular basis, in order to help them pay
+for the things that they need.
+grouchy = If someone is grouchy, they are very bad-tempered and complain a lot.
+count on somebody/something = rely on somebody to do something; expect something to happen and make plans in an appropriate way
+upset = If you are upset, you are unhappy or disappointed because something unpleasant has happened to you.
+down in the dumps = depressed; miserable
+on cloud nine = extremely happy
+anxious = If you are anxious, you are nervous or worried about something.
+lost cause = If you refer to something or someone as a lost cause, you mean that people's attempts to change or
+influence them have no chance of succeeding.
+on edge = nervous, worried or anxious
+
+# 0326 finding the right wine (food + drink)
+empty-handed = If you come away from somewhere empty-handed, you have failed to get what you wanted.
+table wine = Table wine is fairly cheap wine that is drunk with meals.
+wine -> white, read, rose
+fruity = Something that is fruity smells or tastes of fruit.
+tart = If something such as fruit is tart, it has a sharp taste.
+wine -> full-bodied or light-bodied
+vineyard = A vineyard is an area of land where grape vines are grown in order to produce wine.
+corkscrew = A corkscrew is a device for pulling corks out of bottles.
+six-pack = A six-pack is a pack containing six bottles or cans sold together.
+champagne
+you can't go wrong = used to say that something will always be acceptable in a particular situation
+
+# 0327 getting caught in the rain (nature + weather)
+drench = to drench something or someone means to make them completely wet.
+get caught in = become involved in an unpleasant event or situation that you cannot escape from
+soak = if you soak something or leave it to soak, you put it into a liquid and leave it there.
+raindrop, rainstorm
+be running late = behind schedule
+rain cats and dogs = rain very heavily, it's pouring down out there.
+drizzle = If it is drizzling, it is raining very lightly.
+sprinkle = If it is sprinkling, it is raining very lightly.
+let up = become less strong
+count on = rely or depend on
+it's pouring out again
+round up = gather (animals, suspects, etc) together
+wring something out = remove water or other liquid from a cloth, etc. by twisting it tightly and squeezing it
+
+# 0328 dishonesty at work (business)
+cook the books = change facts or figures in order to make the situation seem better than it is or to hide the fact
+that you have stolen money
+embezzle = If someone embezzles money that their organization or company has placed in their care, they take it and use it illegally for their own purposes.
+upstanding = Upstanding people behave in a morally acceptable way.
+stretch the truth
+integrity = If you have integrity, you are honest and firm in your moral principles.
+it's only[just] a matter of time = used to say that a thing will definitely happen in the future, although it may not happen immediately
+desperate = If you are desperate, you are in such a bad situation that you are willing to try anything to change it.
+press charges (against) = 고발하다, 기소하다
+under the circumstances = 사정이 그러[이러]하므로, 그런[이런] 사정으로 볼 때
+consensus = a consensus is general agreement among a group of people.
+take up a collection = 기부금을 수집하다, 헌금을 걷다
+
+# 0329 being persuasive (relationships + family)
+persuasive = able to cause people to do or believe something, able to persuade people
+down in the dumps = depressed; miserable
+witty = Someone or something that is witty is amusing in a clever way.
+convince vs. persuade
+convince = if someone or something convinces you to do something, they persuade you to do it.
+persuade = If you persuade someone to do something, you cause them to do it by giving them good reasons for doing it.
+live up to something = behave as well as or be as good or successful as people expect
+hype = Hype is the use of a lot of publicity and advertising to make people interested in something such as a
+product.
+twist somebody's arm = force or persuade somebody to do something, but not by using physical force
+on the fence = avoid deciding between two sides of an argument, discussion, quarrel, etc
+sweeten the pot = (덤·경품 따위로) 상품을 사고 싶게 만들다, 제안을 매력적인 것으로 만들다
+tempt = If you tempt someone, you offer them something they want in order to encourage them to do what you want them to do.
+
+# 0330 traveling by bus (travel)
+board = When you board a train, ship, or aircraft, you get on it in order to travel somewhere.
+on a first-come, first-serve basis
+night service
+en route = on the way; while travelling from/to a particular place
+buses' stops -> rest stop, meal stop and etc
+on board = on or in a ship, an aircraft or a train
+handler = A handler is someone whose job is to deal with a particular type of object., A handler is someone whose
+job is to be in charge of and control an animal.
+retrieve = If you retrieve something, you get it back from the place where you left it.
+
+# 0331 washing clothes (home + community)
+dye = if you dye something such as hair or cloth, you change its colour by soaking it in a special liquid.
+stain = a stain is a mark on something that is difficult to remove.
+bleach = bleach is a chemical that is used to make cloth white, or to clean things thoroughly and kill germs.
+detergent = Detergent is a chemical substance, usually in the form of a powder or liquid, which is used for washing things such as clothes or dishes.
+dish washing liquid
+as stiff as a board = something that is stiff is firm or does not bend easily
+delicate
+lint = lint is cotton or linen fabric which you can put on your skin if you have a cut.
+fabric softener
+
+# 0332 profit and loss (business | daily life)
+call in sick day
+hold the bag = be given all of the blame or responsibility that should be shared with others
+profit and loss statement = 손익계산서
+plug something in
+can't make head or/nor tail of something = not be able to understand something at all
+revenue = revenue is money that a company, organization, or government receives from people.
+bottom line = the bottom line in a decision or situation is the most important factor that you have to consider.
+net income = gross profit minus operating expenses and taxes.
+take something into account(consideration) = consider something when making a calculation or decision
+expense = expense is the money that something costs you or that you need to spend in order to do something.
+gross profit = the difference between total revenue from sales and the total cost of purchases or materials, with
+an adjustment for stock
+figure somebody/something out = come to understand somebody/something by thinking carefully
+complicated = if you say that something is complicated, you mean it has so many parts or aspects that it is.
+difficult to understand or deal with
+
+# 0333 quitting smoking (health + medicine)
+bum = if you bum something off someone, you ask them for it and they give it to you.
+incentive = if something is an incentive to do something, it encourages you to do it.
+cold turkey = the unpleasant state that drug addicts experience when they suddenly stop taking a drug, or a way of treating addicts that makes them experience this state
+be doomed to = If something is doomed to happen, or if you are doomed to a particular state, something unpleasant is certain to happen, and you can do nothing to prevent it.
+ashtray = An ashtray is a small dish in which smokers can put the ash from their cigarettes and cigars.
+stained = A stain is a mark on something that is difficult to remove.
+butt = if a person or animal butts you, they hit you with the top of their head.
+lost cause = If you refer to something or someone as a lost cause, you mean that people's attempts to change or
+influence them have no chance of succeeding.
+
+# 0334 hiding from the police (government + law)
+on the lam = escaping from somebody, especially from the police
+commit a murder = If someone commits a crime or a sin, they do something illegal or bad.
+bolt = if a person or animal bolts, they suddenly start to run very fast, often because something has frightened them.
+wanted = if someone is wanted by the police, the police are searching for them because they are thought to have committed a crime.
+confiscate = if you confiscate something from someone, you take it away from them, usually as a punishment.
+disguise = If you are in disguise, you are not wearing your usual clothes or you have altered your appearance in
+other ways, so that people will not recognize you.
+stowaway = A stowaway is a person who hides in a ship, aeroplane, or other vehicle in order to make a journey secretly or without paying.
+keep out of sight
+hole up = hide somewhere
+inkling = If you have an inkling of something, you have a vague idea about it.
+go underground = if you go underground, you hide from the authorities or the police because your political ideas or activities are illegal.
+black market = If something is bought or sold on the black market, it is bought or sold illegally.
+forged = if someone forges something such as a banknote, a document, or a painting, they copy it or make it so that it looks genuine, in order to deceive people -> counterfeit
+nab = if people in authority such as the police nab someone who they think has done something wrong, they catch them or arrest them.
+
+# 0335 getting a car serviced (transportation)
+rough = If a surface is rough, it is uneven and not smooth.
+rip somebody off = cheat somebody, for example by charging them too much for something, selling them something of poor quality, etc.
+crook = A crook is a dishonest person or a criminal.
+garage = A garage is a building in which you keep a car. A garage is often built next to or as part of a house. ,A garage is a place where you can get your car repaired. In Britain, you can also buy fuel for your car, or buy cars.
+leak = If a container leaks, there is a hole or crack in it which lets a substance such as liquid or gas escape.
+If a secret document or piece of information leaks or is leaked, someone lets the public know about it.
+leak out = if secret information leaks out, it becomes known to the public when it should remain secret.
+tip-top = You can use tip-top to indicate that something is extremely good.
+car - oil, filter, windshield wipers, engine, transmission, shocks, brake pads, battery, hood, tires, wheels
+
+# 0336 going out of business (business)
+go belly up = if a business or a project goes belly up, it fails.
+downsize = To downsize something such as a business or industry means to make it smaller.
+throw in the towel = stop doing something because you know that you cannot succeed; admit defeat
+profitable = a profitable organization or practice makes a profit.
+debt, loan
+bail somebody out = get out of a difficult situation, pay somebody's bail (= the money that somebody accused of a
+crime has to pay if they do not appear at their trial) for them, so that they can be set free until their trial
+pack it in = stop doing something
+go out of business = having stopped operating as a business because there is no more money or work available
+liquidate = To liquidate a company is to close it down and sell all its assets, usually because it is in debt.
+lease = A lease is a legal agreement by which the owner of a building, a piece of land, or something such as a car
+allows someone else to use it for a period of time in return for money.
+tear something down = pull or knock down a building, a wall, etc. destroy or demolish
+downturn = If there is a downturn in the economy or in a company or industry, it becomes worse or less successful
+than it had been.
+go bankrupt = People or organizations that go bankrupt do not have enough money to pay their debts.
+
+# 0337 reading comic books (entertainment + sports)
+comic book = a comic book is a magazine that contains stories told in pictures.
+mature = If you describe someone as mature, you think that they are fully developed and balanced in their
+personality and emotional behavior.
+comic strip = A comic strip is a series of drawings that tell a story, especially in a newspaper or magazine.
+superhero = A superhero is a character in a cartoon or film who has special powers and fights against evil.
+villain = A villain is someone who deliberately harms other people or breaks the law in order to get what he or she wants.
+sophisticated = A sophisticated machine, device, or method is more advanced or complex than others.
+serialize = If a book is serialized, it is broadcast on the radio or television or is published in a magazine or newspaper in a number of parts over a period of time.
+self-contained = You can describe someone or something as self-contained when they are complete and separate and do not need help or resources from outside.
+genre = A genre is a particular type of literature, painting, music, film, or other art form which people consider as a class because it has special characteristics.
+come across = meet or find by accident
+preconceived = if you have preconceived ideas about something, you have already formed an opinion about it before you have enough information or experience.
+
+# 0338 refusing an invitation (home + community)
+regret = if you regret something that you have done, you wish that you had not done it.
+offence = offence or an offence is behaviour which causes people to be upset or embarrassed.
+white lie = if you refer to an untrue statement as a white lie, you mean that it is made to avoid hurting someone's feelings or to avoid trouble, and not for an evil purpose.
+turn somebody/something down = reject or refuse somebody/something
+relative = your relatives are the members of your family.
+look after = take care of
+night and day = all the time; without stopping
+far-fetched = if you describe a story or idea as far-fetched, you are criticizing it because you think it is unlikely to be true or practical.
+you've got a point = 일리가 있다
+decline = if something declines, it becomes less in quantity, importance, or strength.
+if you decline something or decline to do something, you politely refuse to accept it or do it.
+extend an apology
+acronym = an acronym is a word composed of the first letters of the words in a phrase, especially when this is used as a name. NATO, NBA, KBO, ...
+
+# 0339 star-crossed lovers (relationships + family)
+star-crossed = if someone is star-crossed, they keep having bad luck.
+defy = If you defy someone or something that is trying to make you behave in a particular way, you refuse to obey them and behave in that way.
+forbid = If you forbid someone to do something, or if you forbid an activity, you order that it must not be done.
+stand up to = resist somebody/something; to defend your position against a more powerful person or organization that is treating you badly or unfairly
+puppet = A puppet is a doll that you can move, either by pulling strings which are attached to it or by putting your hand inside its body and moving your fingers. You can refer to a person or country as a puppet when you mean that their actions are controlled by a more powerful person or government, even though they may appear to be independent.
+feud = A feud is a quarrel in which two people or groups remain angry with each other for a long time, although they are not always fighting or arguing.
+confront = If you confront someone, you stand or sit in front of them, especially when you are going to fight, argue, or compete with them. If you are confronted with a problem, task, or difficulty, you have to deal with it.
+guilt = Guilt is an unhappy feeling that you have because you have done something wrong or think that you have done something wrong.
+manipulate = If you say that someone manipulates people, you disapprove of them because they skilfully force or persuade people to do what they want.
+tear somebody/yourself apart = make somebody/yourself suffer very much or feel very unhappy
+trashy = If you describe something as trashy, you think it is of very poor quality.
+melodrama = A melodrama is a story or play in which there are a lot of exciting or sad events and in which people's emotions are very exaggerated.
+
+# 0340 office competition (business)
+listen up = used to tell somebody to pay attention to what you are going to say
+rival = Your rival is a person, business, or organization who you are competing or fighting against in the same area or for the same things.
+pull ahead = move in front of somebody/something, especially suddenly or unexpectedly
+turn the tables = do something which means that you now have an advantage over somebody who previously had an advantage over you
+neck and neck (with somebody/something) = (in a race, competition, etc.) level with each other
+it's crunch time = it is the moment when something must be decided or done, or a difficulty can no longer be avoided
+crunch = You can refer to an important time or event, for example when an important decision has to be made, as the crunch.
+fall behind = fail to stay with other people or things, especially in a race or competition
+outdo = If you outdo someone, you are a lot more successful than they are at a particular activity.
+
+# 0341 an annoying cell phone user (technology)
+leisurely = A leisurely action is done in a relaxed and unhurried way.
+shout out
+inconsiderate = if you accuse someone of being inconsiderate, you mean that they do not take enough care over how their words or actions will affect other people.
+nuisance = if you say that someone or something is a nuisance, you mean that they annoy you or cause you a lot of problems.
+etiquette = Etiquette is a set of customs and rules for polite behaviour, especially among a particular class of people or in a particular profession.
+ban = To ban something means to state officially that it must not be done, shown, or used.
+intimate = If you have an intimate friendship with someone, you know them very well and like them a lot., An intimate conversation or detail, for example, is very personal and private.
+jam = If something such as a part of a machine jams, or if something jams it, the part becomes fixed in position and is unable to move freely or work properly.
+kick up a fuss = complain very noisily and loudly about something
+fuss = Fuss is anxious or excited behaviour which serves no useful purpose.
+shush = If you shush someone, you tell them to be quiet by saying `shush' or `sh', or by indicating in some other way that you want them to be quiet.
+hold on = used to ask somebody to wait or stop for a short time
+
+# 0342 at the butcher's (shopping)
+butcher = a butcher is a shopkeeper who cuts up and sells meat.
+grind-ground-ground = If you grind a substance such as corn, you crush it between two hard surfaces or with a
+machine until it becomes a fine powder.
+lean = If meat is lean, it does not have very much fat. <-> fatty
+thigh = Your thighs are the top parts of your legs, between your knees and your hips; 넓적다리
+thinly sliced
+cold cuts = Cold cuts are thin slices of cooked meat which are served cold. 편육
+salami = Salami is a type of strong-flavoured sausage. It is usually thinly sliced and eaten cold.
+bologna = a large smoked sausage made of seasoned mixed meats
+tender = meat or other food that is tender is easy to cut or chew. <-> tough
+steaks -> T-bone, rib eye, sirloin
+A T-bone steak is a thick piece of beef that contains a T-shaped bone.
+rib eye steak = A beef steak cut from the rib section of the cow.
+A sirloin is a piece of beef which is cut from the bottom and side parts of a cow's back.
+
+# 0343 being alike and different (about you)
+adorable = if you say that someone or something is adorable, you are emphasizing that they are very attractive and you feel great affection for them.
+as likeas two peas in a pod = very similar in appearance
+distinct = If something is distinct from something else of the same type, it is different or separate from it.
+polar opposite = The complete opposite, opposite in every way.
+clash = When people clash, they fight, argue, or disagree with each other.
+playful = A playful gesture or person is friendly or humorous.
+pensive = If you are pensive, you are thinking deeply about something, especially something that worries you
+slightly.
+get on somebody's nerves = annoy somebody a lot
+more often than not = frequently; usually
+precious = If you say that something such as a resource is precious, you mean that it is valuable and should not
+be wasted or used badly.
+treat = If you give someone a treat, you buy or arrange something special for them which they will enjoy.
+
+# 0344 at the convention center (business)
+convention center
+in time = not late
+(right) on time = at the correct time, neither early nor late; punctual
+know one's way around = be experienced and knowledgeable, be familiar with
+foyer = lobby
+point somebody in the right direction
+hallway = A hallway in a building is a long passage with doors into rooms on both sides of it.
+ballroom = A ballroom is a very large room that is used for dancing.
+landing = In a house or other building, the landing is the area at the top of the staircase which has rooms
+leading off it.
+bearing = if you get your bearings or find your bearings, you find out where you are or what you should do next.
+if you lose your bearings, you do not know where you are or what you should do next.
+sweating bullets
+clock -> ticks
+subconscious = Your subconscious is the part of your mind that can influence you or affect your behaviour even
+though you are not aware of it.
+
+# 0345 the seven-year itch (daily life | relationships + family)
+the seven year itch = the wish for a new sexual partner because you are bored with your husband or wife
+split up (with somebody) = (~와 관계를 끊고) 헤어지다[결별하다]
+break up = put an end to (a relationship) or (of a relationship) come to an end
+unfaithful = If someone is unfaithful to their lover or to the person they are married to, they have a sexual
+relationship with someone else.
+wandering eye = If your eyes wander, you stop looking at one thing and start looking around at other things.
+vow = A vow is a serious promise or decision to do a particular thing.
+notion = A notion is an idea or belief about something.
+out of date = Something that is out of date is old-fashioned and no longer useful.
+conventional wisdom = the view or belief that most people have
+cynical = If you describe someone as cynical, you mean they believe that people always act selfishly.
+adultery = If a married person commits adultery, they have sex with someone that they are not married to.
+la-la land = people sometimes use La-La land to mean an imaginary place.
+
+# 0346 using the restroom (food + drink)
+restroom = bathroom, with toilets & sinks
+a mess(unorganized) <-> neat
+stall = a stall is a small enclosed area in a room which is used for a particular purpose, for example a shower.
+toilet = A toilet is a large bowl with a seat, or a platform with a hole, which is connected to a water system and which you use when you want to get rid of urine or faeces from your body.
+flush = If you flush something down the toilet, you get rid of it by putting it into the toilet bowl and flushing the toilet.
+urinate = When someone urinates, they get rid of urine from their body.
+urinal = A urinal is a bowl fixed to the wall of a men's public toilet for men to urinate in.
+dispenser = a dispenser is a machine or container designed so that you can get an item or quantity of something from it in an easy and convenient way. soap dispenser
+faucet = A faucet is a device that controls the flow of a liquid or gas from a pipe or container. Sinks and baths have faucets attached to them.
+splash = If you splash a liquid somewhere or if it splashes, it hits someone or something and scatters in a lot of small drops.
+hand dryer
+
+# 0347 writing a postcard (travel)
+have the time of one's life = (idiomatic) To enjoy oneself immensely, or more than ever before.
+be off = leave; to go, especially in a hurry
+keep someone company = remain with or accompany someone, especially to make them feel more comfortable with a certain situation.
+nightmare = If you refer to a situation as a nightmare, you mean that it is very frightening and unpleasant.
+pour = When it rains very heavily, you can say that it is pouring.
+if you say that a place is a dump, you think it is ugly and unpleasant to live in or visit.
+food poisoning = If you get food poisoning, you become ill because you have eaten food that has gone bad.
+washout = If an event or plan is a washout, it fails completely.
+can't wait to = be very eager to do something, eagerly anticipate
+
+# 0348 showing disapproval and sympathy (business)
+If you say that someone or something is awful, you dislike that person or thing or you think that they are not very good.
+If you describe something as rotten, you think it is very unpleasant or of very poor quality.
+dead set = absolutely
+pull together = cooperate or work harmoniously
+put[lay] something on the line = 솔직하게 말하다; …에 대해 단호한 어조로 솔직하게 말하다(line이란 전투의 전선을 가리킨다)
+take a dim/poor view of somebody/something = disagree with or dislike somebody/something
+dim = Dim light is not bright(a little dark).
+speak out = state one's beliefs, objections, etc, bravely and firmly; speak more loudly and clearly
+lie low = hide or keep quiet for a short time
+take it = (often used with can / could) be able to bear or tolerate something difficult or unpleasant such as stress, criticism or pain
+
+# 0349 taking vitamins and supplements (health + medicine)
+check-up = a check-up is a medical examination by your doctor or dentist to make sure that there is nothing wrong with your health.
+dietary supplements
+nutrient = nutrients are substances that help plants and animals to grow.
+multivitamin = 종합비타민
+when you chew food, you use your teeth to break it up in your mouth so that it becomes easier to swallow.
+deficient = if someone or something is deficient in a particular thing, they do not have the full amount of it that they need in order to function normally or work properly.
+better (to be) safe than sorry = it is better to be too careful than to do something careless that you may later regret
+overdose = If someone takes an overdose of a drug, they take more of it than is safe.
+over-the-counter drugs = goods, especially medicines, for sale over the counter can be bought without written permission(prescription) from a doctor
+dosage = a dosage is the amount of a medicine or drug that someone takes or should take.
+if you tolerate a situation or person, you accept them although you do not particularly like them.(= put up with)
+all the more = even/much more
+neglect = If you neglect someone or something, you fail to look after them properly.
+
+# 0350 a movie review (entertainment + sports)
+premiere = the first time a film, play, television show, etc., is shown or performed
+entertaining = amusing and enjoyable, providing entertainment
+entertain = perform for (an audience); provide amusement for (someone) by singing, acting, etc.
+groundbreaking = introducing new ideas or methods; revolutionary
+by any means = in any way, at all
+awful = extremely bad or unpleasant
+walk out = leave somewhere suddenly especially as a way of showing disapproval; (회의/공연 등을 하던 중에 특히 불만을 나타내기 위해) 나가[떠나] 버리다
+wooden = made of wood; awkward or stiff; not having or showing any emotion, energy, etc.
+inspire = make (someone) want to do something, give (someone) an idea about what to do or create
+amateur = a person who does something poorly, a person who is not skillful at a job or other activity
+critical = expressing criticism or disapproval; extremely important; relating to or involving a great danger of death
+debut = the first time an actor, musician, athlete, etc., does something in public or for the public
+screenplay = the written form of a movie that also includes instructions on how it is to be acted and filmed, the script for a movie; 대본/시나리오
+predictable = capable of being known before happening or being done; behaving in a way that is expected
+pretentious = 가식적인/허세부리는; having or showing the unpleasant quality of people who want to be regarded as more impressive, successful, or important than they really are
+do (someone) a favor = do a kind and helpful act for (someone)
+진부한 story - stale, banal, trite, worn-out, hackneyed

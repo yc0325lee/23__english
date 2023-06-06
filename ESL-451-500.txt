@@ -1,0 +1,751 @@
+# vim: ft=text ts=4 sw=4 tw=999 expandtab
+
+# 0451 buying car insurance (transportation)
+quote/quotation = 견적 (=estimate), a written statement of how much money a particular job will cost to do
+assume = think that something is true or probably true without knowing that it is true
+liability insurance = any insurance against a potential loss due to the insured's liability for injury or damage to others.
+coverage = the financial protection that is provided by an insurance policy
+collision = a crash in which two or more things or people hit each other
+run into somebody = meet somebody by chance, without expecting that
+run into = move into (someone or something) in a sudden or forceful way, meet (someone) by chance, experience (something that is unpleasant or difficult, encounter)
+comprehensive = including many, most, or all things
+comprehensive insurance 종합 책임 보험
+damage (무엇에 물리적인 해를 가하거나, 그것이 덜 매력적이게/유용하게/가치있게 되도록) 해를 끼치다; (사람ㆍ사물의 수명, 건강, 행복, 성공 가능성을) 해치다
+hurt (사람/사물의 수명, 건강, 행복, 성공 가능성을) 해치다
+harm (사람/사물의 수명, 건강, 행복, 성공 가능성을) 해치다
+vandalism = the act of deliberately destroying or damaging property of other people
+property = something that is owned by a person, business, etc.
+property damage insurance 재물 손괴 보험 ((자동차 등으로 남의 재산에 입힌 손해에 대한 보험))
+hold off = wait to do something
+
+# 0452 dealing with unhappy employees (business)
+complaint = a statement that you are unhappy or not satisfied with something
+morale = 사기/의욕, the feelings of enthusiasm and loyalty that a person or group has about a task or job
+overworked and underpaid
+burn out = become very tired or sick and unable to continue your work because you have worked too hard over a period of time
+disgruntled = If you are disgruntled, you are cross and dissatisfied because things have not happened the way that you wanted them to happen.
+grievance = a feeling of having been treated unfairly, a reason for complaining or being unhappy with a situation, a statement in which you say you are unhappy or not satisfied with something; 불만[고충](사항)
+voice complaints/criticisms/doubts/objections, etc = express (something) in words; 불만/비판/의심/반대 등을 표하다
+retaliate = do something bad to someone who has hurt you or treated you badly; get revenge against someone
+blow out of proportion = cause (something) to become larger than it should be or to be treated as something worse or more important than it really is, (~를) 지나치게 부풀리다/과장하다
+desfunctional = not functional; not working properly
+up against a/the wall = in a very bad position or situation
+file a complaint = 항의/불만을 제기하다
+
+# 0453 making an emergency medical call (health + medicine)
+911 emergency call
+state = express (something) formally in speech or writing
+car accident = collision or crash
+pileup = an accident in which several or many vehicles crash into each other, a large amount of something that has increased gradually over a period of time
+hurd = be injured
+unconscious = not awake especially because of an injury, drug, etc.
+if you feel trapped, you are in an unpleasant situation in which you lack freedom, and you feel you cannot escape from it.
+stay on the line = 수화기를 들고 기다리다
+Jaws of Life 조스 오브 라이프 (사고 난 차 안에 갇힌 사람을 꺼내는 데 쓰는 공구, 상표명)
+paramedic = 준의료 활동 종사자, 긴급 의료원 (→ambulance worker)
+
+# 0454 hailing and taking a taxi (transportation)
+hail (a cap) = call out in order to stop or get the attention of (someone or something)
+cabbie = cabdriver
+off duty = not working at a particular time
+If you take no notice of someone or something, you do not consider them to be important enough to affect what you think or what you do. (=ignore)
+pull over = move a vehicle to the side of the road and stop
+return fare = round-trip fare, a fare for travel to a place and back again
+taxi stand = a place where taxis park while waiting to be hired 
+flat rate = a charge or level of payment that is the same in all cases
+suit yourself = tell people that they can do what they want even though you do not think it is what they should do; (마음에 안 들긴 하지만) 좋을 대로 해라
+steer clear of sb/sth - If you steer clear of someone or something, you deliberately avoid them.
+
+# 0455 ending a bad date (relationships + family)
+from hell = used to describe someone or something that is very bad or unpleasant, horrible, terrible (informal + somewhat impolite)
+creep = a strange person who you strongly dislike; move slowly with the body close to the ground(=crawl)
+let down = make (someone) unhappy or displeased by not being as good as expected; disappoint someone
+hit it off = become friends, get along well, enjoy being with someone well
+chemistry = a strong attraction between people; a science that deals with the structure and properties of substances
+the time of one's life = a memorably enjoyable time
+bartender = a person who serves drinks at a bar or restaurant(cf. clerk, shop assistant, ...)
+straightforward = easy to do or understand, not complicated, direct; honest and open
+mixed signal = an unclear message, often contradicting a situation
+send mixed signals = 애매한 태도를 보이다(= be vague about one's intentions)
+see you (around) = 잘 있어[잘 가/또 봐]
+keep one's cool = maintain a calm and controlled attitude
+stinking = having a very bad smell; used for emphasis when you are angry
+Capisce (pronounced cah-PEESH) is an italian word that is used in american slang to say "got it" or "understand."
+prince charming = a man who seems to be a perfect boyfriend or husband because he is attractive, kind, etc
+
+# 0456 sending business packages (business)
+delivery sevice = courier service
+parcel = a box or large envelope that is usually given, sent, or delivered to a person 
+ground service = using truck or train, slowest
+overnight service = within 24 hours, faster
+track = follow and try to find (an animal) by looking for its tracks and other signs that show where it has gone
+residential = containing mostly homes instead of stores, businesses, etc.
+breakable = possible to break, able to be broken
+fragile = easily broken or damaged ; very delicate ; not strong
+vulnerable = easily hurt or harmed physically, mentally, or emotionally
+declared value = (수입품의) 신고 가격
+delivery confirmation = 송출 확인(送出確認)
+customs declaration = a statement which give details and value of goods being imported or exported, usually required for the purpose of assessing customs duty; 세관신고
+
+# 0457 apologizing for a bad date (relationships + family)
+blow it = fail at something; mess up; make a mistake; waste an opportunity
+walk out on = leave (someone) suddenly and unexpectedly, abandon or desert (someone); leave before the completion of (something)
+flounder = be unsure about what to do or say; move in an awkward way with a lot of difficulty and effort, struggle
+liven up = become or to make somebody/something more lively, interesting or exciting
+get carried away = become excessively involved or enthusiastic; take something too far
+hang up = end a telephone connection by putting the handset on its base or by turning the telephone off
+atrocious = very bad; very evil or cruel
+jerk = a stupid person or a person who is not well-liked or who treats other people badly; idiot
+hold on = wait or stop briefly
+start in on (something) = start doing (a particular activity or action); begin to do something
+lush = a person who is often drunk
+loosen up = make or become less tense, relax; cause (someone or something) to relax
+excuse = forgive someone for making a mistake, doing something wrong, etc.,
+grope = search for something by reaching or touching usually with your fingers in an awkward way; touch (someone) in an unwanted and unexpected sexual way
+blur = something that you cannot see or understand clearly; something that is difficult to remember
+creep = a strange person who you strongly dislike; move slowly with the body close to the ground(=crawl)
+make it up to someone = compensate someone for negligent or unfair treatment
+sleep on it = think more about something overnight and make a decision about it later
+glimmer = a weak, unsteady light; a faint idea or suggestion of something; a small amount or sign of something
+faint = not clearly seen, heard, tasted, felt, etc.; very slight or small
+
+# 0458 going to the playground (nature + weather)
+playground = an outdoor area where children can play that usually includes special equipment (such as swings and slides)
+nanny = a woman who is paid to care for a young child usually in the child's home
+merry-go-round = a large round platform that turns around in a circle and has seats and figures of animals (such as horses) on which children sit for a ride
+toddler = a young child who is just learning to walk
+knock the wind out of (someone) = knock the air out of a person's lungs and make him or her unable to breathe normally for a brief time
+swing set = a wooden or metal structure that has swings hanging from it and that may have a slide or other things attached to it for children to play on
+decapitate = cut off the head of (a person or animal); behead
+smash = break (something) into many pieces; to shatter or destroy (something)
+grasp = strong hold; the distance that can be reached by your arms and hands, reach
+monkey bar = 구름사다리
+hang off = (벽 등에서) 떨어지다(매달려 있던 것이)
+sandbox = a low box filled with sand that children can play in
+deathtrap = a place, structure, or vehicle that is potentially very dangerous
+lively  = very active and energetic; full of energy, excitement, or feeling; animated or vivacious
+다치다,부상을 당하다 = hurt, be[get] hurt, be injured, be wounded
+
+# 0459 watching political commentary shows (government + law)
+commentary = something that shows or makes a statement about the true state or condition of something
+purported = said to be true or real but not definitely true or real; supposedly
+purport = claim to be or do a particular thing when this claim may not be true
+commentator = a person who discusses important people and events on television, in newspapers, etc.
+political tendency = liberal(left-side) vs conservative(right-side)
+biased = having or showing a bias; having or showing an unfair tendency to believe that some people, ideas, etc., are better than others
+pundit = a person who knows a lot about a particular subject and who expresses ideas and opinions about that subject publicly (= expert)
+spectrum = a complete range of different opinions, people, etc.; range of something
+take turns ~ing = do something one person after another
+argument = a statement or series of statements for or against something; a discussion in which people express different opinions about something
+party line = the official policy or opinion of a political party or other organization that members are expected to support
+predictable = capable of being known before happening or being done; behaving in a way that is expected
+poles apart = as far apart or as different as possible; have nothing in common; totally different from each other
+debate = a discussion between people in which they express different opinions about something; discuss (something) with people whose opinions are different from your own
+contempt = a feeling that someone or something is not worthy of any respect or approval; a lack of respect for or fear of something that is usually respected or feared
+loathing = a very strong feeling of hatred or disgust
+talk over each other = speak loudly before another person complete saying something; interrupt somebody's talking
+stimulating = exciting or interesting; causing someone to become more energetic or alert
+
+# 0460 working in a bad economy (business)
+economy = the process or system by which goods and services are produced, sold, and bought in a country or region
+take a toll = have a serious, bad effect on someone or something; cause harm or damage
+lay off = stop employing (someone) because there is not enough work
+workforce = the group of people who work for a particular organization or business; the number of people in a country or area who are available for work
+salary = an amount of money that an employee is paid each year
+wage = an amount of money that a worker is paid based on the number of hours, days, etc., that are worked
+it goes without saying that = ~은 말할 것[나위]도 없다; it is obvious, already known or natural
+freelance = earning money by being hired to work on different jobs for short periods of time rather than by having a permanent job with one employer
+pick and choose = choose only the best or most appropriate things or people
+overtime = time spent working at your job that is in addition to your normal working hours
+compensate = provide something good as a balance against something bad or undesirable, make up for some defect or weakness
+walk a mile in someone's shoes = experience what someone has experienced
+customer(상점), guest(호텔), patron(단골), client(변호사,은행,전문적인 일)
+ditto = used to say that whatever you have said about one person or thing is also true of another person or thing
+
+# 0461 using a guidebook (travel)
+buy out = the act of gaining control of a company by buying the parts of it you do not own
+guidebook = a book of information for travelers
+tourist attractions = things tourists usually like to see or do
+study up on = spend a lot of time learning about something (usually by reading); ~을 주의깊게 공부[연구]하다
+must-see item = very highly recommended one among things
+self-guided tour = 지도와 안내서를 통해 관광지를 둘러보는 여행 (without a professional tour guide) cf. self-taught
+conscientious = very careful about doing what you are supposed to do, concerned with doing something correctly
+sketch something out = draw all the main features of something without showing exact details; give a brief general description of a plan or an idea
+itinerary = the places(and schedule) you go to or plan to go to on a journey, 여객의 여행 개시부터 종료까지의 gap을 포함한 전구간
+get a feel for = become accustomed to; become familiar with something
+accommodations = a place (such as a room in a hotel) where travelers can sleep and find other services
+nightlife = social activities and forms of entertainment that are available at night in bars, nightclubs, etc.
+day trip = a day trip is a journey to a place and back again on the same day, usually for pleasure.
+you have to learn several survival phrases to travel abroad or local area.
+local = a person who lives in a particular area, city, or town; a local person
+
+# 0462 having doubts about getting married (relationships + family)
+cold feet - a feeling of worry or doubt that is strong enough to stop you from doing something that you planned to do
+if somebody freaks out or if something freaks them out, they react very strongly to something that shocks, angers, excites or frightens them.
+rash - doing something quickly and without thinking carefully about what will happen as a result
+impulse - a sudden strong desire to do something
+soul-searching - the activity of thinking seriously about your feelings and beliefs in order to make a decision or to understand the reasons for your own behavior
+leave someone at the altar - not get married because the person one was going to marry has decided against it at the last moment
+stay put - stay where you are; not travel, escape, look for another job, etc
+set (someone) right/straight - tell (someone) who is wrong about something what the real facts are
+
+# 0463 washing the car (transportation)
+enthusiasm - strong excitement about something, a strong feeling of active interest in something that you like or enjoy
+vacuum - clean (something) with a vacuum cleaner
+interior - an inner part, area, or surface (opposite: EXTERIOR)
+polish - make (something) smooth and shiny by rubbing it
+inspect - look at (something) carefully in order to learn more about it, to find problems, etc.
+
+# 0464 talking about inventory (business)
+listen up = usually used as a command -> pay attention to, may I get your attention plz?
+warehouse = a large building used for storing goods
+stock = the supply of goods available for sale in a store
+buy in bulk
+catalogue things means to make a list of them.
+consignment = a quantity of goods that are sent to a person or place to be sold
+inventory = the act or process of making a complete list of the things that are in a place, the act or process of making an inventory
+happy camper = someone who is pleased or happy
+
+# 0465 describing boring and exciting things (entertainment + sports)
+if two people split up, or if someone or something splits them up, they end their relationship or marriage.
+if a group of people split up or are split up, they go away in different directions.
+biopic = a biographical movie
+mind-numbing - very dull or boring
+action-packed - filled with action, danger, and excitement
+fast-paced - (of a narrative or series of events) moving or developing very quickly
+If you say that someone is on the edge of their seat or chair, you mean that they are very interested in what is happening or what is going to happen.
+snail's pace - an extremely slow pace
+repetitive - happening again and again, repeated many times
+abandon - leave and never return to (something/someone)
+adrenaline rush - a sudden burst of energy from an increase of the hormone Adrenaline, usually occurs during a stressful event.
+nap - a short period of sleep especially during the day
+If you get more bang for the buck, you spend your money wisely and get more for your money than if you were to spend it in a different way.
+
+# 0466 - having a good or bad bedside manner (health + medicine)
+cut out to be (something) = to be well-suited for a certain position or role
+bedside manner = the way a doctor or nurse behaves with patients
+callous = disapproving not feeling or showing any concern about the problems or suffering of other people
+If a situation takes a turn for the worse, it suddenly becomes worse.
+blurt something out = to say something suddenly and without thinking carefully
+diagnosis = the act of identifying a disease, illness, or problem by examining someone or something
+prognosis = a doctor's opinion about how someone will recover from an illness or injury, 예상/예측
+comfort = cause (someone) to feel less worried, upset, frightened, etc.
+reassure = make (someone) feel less afraid, upset, or doubtful
+feel sorry for (someone) = feel sympathy for (someone) because he or she is in a bad situation
+faze = cause (someone) to feel afraid or uncertain
+hysterics = uncontrolled laughter, crying, or extreme emotion
+compassionate = feeling or showing concern for someone who is sick, hurt, poor, etc.; having or showing compassion
+against one's nature = unnatural
+anything but = certainly not, not at all, just the opposite of something
+
+# 0467 buying men's shirts (shopping)
+sleeve = the part of a shirt, jacket, etc., that covers all or part of your arm 
+form-fitting = matching the shape of a person's body, fitting very tightly or closely
+roomy = having plenty of space or room
+collar = a part of a piece of clothing that fits around a person's neck and is usually folded down
+cuff = the part of a sleeve, glove, etc., that covers the wrist, 소매
+crew neck = 크루넥(스웨터 등에서 목을 둥글게 판 형태)
+
+# 0468 organizing your office (business)
+organized = arranged or planned in a particular way, disorganized
+crack down (on somebody) = start to be strict about punishing people for doing something that is illegal or not allowed; enforce a law or rule more strictly
+pack rat = a person who collects or keeps things that are not needed
+turn over a new leaf = start behaving or living in a different and better way, 새사람이 되다
+clutter = fill or cover (something) with many things
+clutter = a large amount of things that are not arranged in a neat or orderly way; a crowded or disordered collection of things; 잡동사니, 어수선함
+purge = remove people from an area, country, organization, etc., often in a violent and sudden way; (조직에서 사람을, 흔히 폭력적인 방법으로) 제거[숙청]하다
+triage = the process of deciding which patients should be treated first based on how sick or seriously injured they are
+
+# 0469 rearranging living room furniture (home + community)
+furniture = chairs, tables, beds, etc., that are used to make a room ready for use
+rearrange = change the position or order of (things), change the position or order of the things in (something), change the time or location of (something)
+spacious = having a large amount of space, (cf. roomy)
+couch = a couch is a long, comfortable seat for two or three people.
+love seat = a seat or sofa for two people
+recliner = a comfortable chair which has a back that can lean back at an angle
+end table = a small table next to a sofa or chair
+coffee table = a long, low table that is usually placed in front of a sofa in someone's home
+ottoman = a low piece of furniture that has a soft top and that you can put your feet on when you are sitting, a soft footstool 
+floor lamp = a tall lamp that stands on the floor (vs table lamp)
+rocking chair = a chair that moves back and forth on rockers that are attached to its legs
+credenza = a sideboard or cupboard
+
+# 0470 avoiding show and movie spoilers (entertainment + sports)
+premier = most important or best
+spoiler = information in a newspaper article, blog, etc. that tells you what happens in a television programme, which may spoil your enjoyment of it if you have not already seen it
+plot twist = an unexpected development in a book, film, television programme, etc.
+come up = occur in usually a sudden or unexpected way
+a trailer (also known as a preview or coming attraction video) is a commercial advertisement, originally for a feature film that is going to be exhibited in the future at a movie theater/cinema.
+suspense = a feeling or state of nervousness or excitement caused by wondering what will happen
+let the cat out of the bag = to reveal a secret
+wild ride = when a cabbie takes pasengers hostage and drives off crazy, so the passengers cannot flee the vehicle. Typically caused by a fare dispute or off-the-meter fares.
+
+# 0471 trying to get off the phone (daily life)
+intention = the thing that you plan to do or achieve, an aim or purpose
+veterinarian = a person who is trained to give medical care and treatment to animals; an animal doctor, called also vet
+I have a call on the other line
+gun for = try to get or achieve (something) in a very determined way, try to hurt or defeat (someone)
+If you say that someone can count themselves lucky, you mean that the situation they are in or the thing that has happened to them is better than it might have been or than they might have expected.
+get off/go scot-free = escape from a situation without receiving the punishment you deserve
+nature calls = when someone says - nature calls - they mean they have to go to the bathroom
+shocker = something that shocks people
+hang up= end a telephone connection by putting the handset on its base or by turning the telephone off
+
+# 0472 feeling nervous about public speaking (business)
+palm = the inside part of the hand between the wrist and the fingers 
+clammy = unpleasantly wet and cold
+cold sweat = a condition in which someone is sweating and feeling cold at the same time because of fear, illness, etc.
+stage fright = a nervous feeling felt by someone who is going to appear in front of an audience
+If you have butterflies in your stomach or have butterflies, you are very nervous or excited about something.
+If something freezes up or if something freezes it up, it becomes completely covered or blocked with ice. (=ice up)
+tongue-tied = unable to speak because you are nervous or shy
+get a hold of yourself = said to the one who is impatient, as a wish to the person to calm down.
+pull oneself together = recover control of one's emotions
+here goes nothing = said before you begin to do something that you do not think will be successful
+
+# 0473 showing respect and disrespect (relationships + family)
+snicker (at) = make a short, quiet laugh in a way that shows disrespect
+acclaim = strong approval or praise
+reverence = honor or respect that is felt for or shown to (someone or something)
+stage fright = a nervous feeling felt by someone who is going to appear in front of an audience
+sweat like a pig = sweat very much
+make a fool of = trick or deceive (someone) so that they look foolish, behave in an incompetent or inappropriate way that makes one appear foolish
+stutter = have a speech problem that causes you to repeat the beginning sound of some words (stammer)
+make a spectacle of oneself = draw attention to oneself by behaving in a ridiculous way in public
+stick to = continue doing or using (something) especially when it is difficult to do so
+hero worship = foolish or excessive admiration of someone
+
+# 0474 having trouble sleeping (health + medicine)
+newlywed = a person who has recently married
+come/go with the territory = be a natural part of a particular situation, position, or area of work
+bummer = something that is unpleasant or disappointing, that's a bummer!
+if you say that something is a bummer, you mean that it is unpleasant or annoying.
+toss and turn = move about and turn over in bed because you are unable to sleep
+make a beeline for = go quickly and directly at or to (something or someone)
+groggy = not able to think or move normally because of being tired, sick, etc.
+disorient = make (someone) lost or confused
+insomnia = the condition of not being able to sleep
+load up on = drink or eat a large amount of (something)
+sleepwalk = walk around while you are asleep
+rule something out = no longer consider (someone or something) as a possibility after careful thought or study
+
+# 0475 hiring a hitman (government + law)
+hitman = a hitman is a man who is hired by someone in order to kill another person
+discreet = used to suggest that someone is being careful about not allowing something to be known or noticed by many people
+If you make yourself scarce, you quickly leave the place you are in, usually in order to avoid a difficult or embarrassing situation.
+a thorn in someone's side(flesh) = a source of continual annoyance or trouble
+specialty = an area of study or business that a person specializes in or has special knowledge of
+down payment = a first payment that you make when you buy something with an agreement to pay the rest later, 착수금/계약금
+finish somebody/something off = destroy or kill somebody/something, especially somebody/something that is already injured
+spot = see or notice (someone or something that is difficult to see or find)
+disposable = made to be used once or only a few times, made to be thrown away after one use or several uses
+prerogative = a right or privilege
+standard = (보통 사람들이 인정하는) 수준[기준], (개인적인/특정 상황에서의) 기준
+
+# 0476 taking chances in business (business)
+tempt = cause (someone) to do or want to do something even though it may be wrong, bad, or unwise
+risk = the possibility that something bad or unpleasant (such as an injury or a loss) will happen
+get in on = become involved in, if you get in on something that other people are already involved in, you take part in it.
+susceptible = easily affected, influenced, or harmed by something
+bar = prevent or forbid (someone) from doing something
+shoot from the hip = react quickly without thinking carefully first
+profitable = making money, producing good or helpful results or effects
+throw caution to the wind(s) = stop caring about how dangerous something might be, start taking risks
+take a chance (on something) = do something without being sure of success
+
+# 0477 planning a gourmet meal (food + drink)
+(food) critic = a person who gives opinions about books, movies, or other forms of art or foods
+gourmet = a person who enjoys and knows a lot about good food and wine
+a gourmet meal = a meal of very high quality; a meal that appeals to gourmets
+mind-blowing = very confusing, exciting, or shocking
+blow one's mind = overwhelm one with wonder or bafflement
+bafflement = a feeling of total bewilderment or perplexity
+cuisine = food that is cooked in a particular way
+delicacy = a food that people like to eat because it is special or rare
+impress =  cause (someone) to feel admiration or interest
+hors d’oeuvre 오르되브르, 전채(前菜) (요리) (->starter)
+chef = a professional cook who usually is in charge of a kitchen in a restaurant, a person who prepares food for people to eat (=cook)
+entree = the main dish of a meal especially in a restaurant
+put all one's eggs in one basket = isk all one has on the success or failure of one thing
+out of this world = very good, excellent
+run-of-the-mill = average or ordinary
+mediocre = not very good
+mouthwatering = having a very delicious taste or appealing smell
+delectable =  pleasant to taste or smell, delicious
+taste bud = one of many small spots on your tongue that give you the ability to taste things
+
+# 0478 having plumbing problems (home + community)
+plumber = a person whose job is to install or repair sinks, toilets, water pipes, etc
+stop something up = cover or fill a hole, a crack, etc. so that nothing can get through
+leak = of a liquid gas etc. to come in or go out through a hole in a surface (slowly)
+garbage disposal = a device in a kitchen sink that grinds up food waste so it can be washed down the drain
+drain = remove (liquid) from something by letting it flow away or out
+bust = break something or cause (something) to stop working by damaging it
+faucet = A faucet is a device that controls the flow of a liquid or gas from a pipe or container. Sinks and baths  
+if a machine shuts off, or somebody shuts it off, it stops working
+if a supply of gas, electricity, etc. shuts off or somebody/something shuts it off, it stops flowing
+If a hotel, restaurant, theatre, or transport service is booked up, it has no rooms, tables, or tickets left for a...
+If someone is booked up, they have made so many arrangements that they have no more time to do things.
+
+# 0479 using frequent flyer miles (travel)
+long weekend = a weekend that includes the Friday before, the Monday after, or both because you do not have to work or go to school on those days
+strapped = not having enough money, lacking money
+set someone back $300 = it costs $300
+frequent flyer(flier) = a person who regularly travels by plane on commercial flights, especially one who is registered as a member of an incentive scheme for such travellers
+blackout = a period when lights are kept off or are hidden from view to guard against enemy airplane attack in a war, 명사 a period when lights are off because of an electrical power failure
+blackout = a sudden and temporary loss of consciousness, vision, or memory
+rack up something = get or collect a large amount or quantity of something, such as profits or losses in a business or points in a competition
+enroll in = enter (someone) as a member of or participant in something, take (someone) as a member or participant
+redeem = exchange (something, such as a coupon or lottery ticket) for money, an award, etc.
+This voucher can be redeemed at any of our branches.
+restriction = a law or rule that limits or controls something
+limitation = something that controls how much of something is possible or allowed
+work around = organize things or proceed in a way that avoids (something, such as a problem)
+workaround = a method for overcoming a problem or limitation in a program or system
+elite = the people who have the most wealth and status in a society; the most successful or powerful group of people
+a word to the wise = used to say that you are about to give someone advice or a warning
+point taken = a response indicating that the speaker recognizes the validity of someone's idea or argument
+
+# 0480 riding in a carpool (business | transportation)
+If someone or something is off site, they are away from a particular area or group of buildings where people work, study, or stay.
+car pool = a group of people who regularly share a car when they are going to and from their jobs or who take turns driving each other's children to school, activities, etc.
+run late = arrive and/or leave later than the time that is expected
+hold up = delay, stop, or slow the movement, progress, or action of (something or someone); delay
+commute = travel regularly to and from a place and especially between where you live and where you work
+telecommute = work at home by using a computer connection to a company's main office
+carpool lane = a road lane that only cars with at least one passenger (not including the driver) may drive in
+high-occupancy vehicle = a motor vehicle carrying more than a specified minimum number of people and therefore permitted to use a traffic lane reserved for such vehicles.
+cut down on expenses/time/etc = reduce
+referential = giving an advantage to a particular person or group
+If people take turns doing or using something or take it in turns to do or use something, they do or use it one after another in order to share the responsibility or opportunity of doing or using it.
+swing by = visit a person or place for a short time, especially when you are going somewhere else
+en route = on or along the way when you are going to a place
+ask around = ask a number of different people in order to find out something
+
+# 0481 listening to music (entertainment + sports)
+genre = a particular type or category of literature or art
+cue up = set up people or things so as to be ready for their cues (such as backstage) <카세트·비디오·CD 등을> player에 갖다 넣다 ((틀 수 있도록))
+cue = a sign that tells a person to do something
+blow away = kill (someone) by shooting, impress (someone) in a very strong and favorable way, defeat (someone) very badly
+treble = the highest range of sounds used in music <-> bass
+bass = low and deep sound, the lowest range of sounds used in music
+cover up = try hard to stop people finding out about a mistake, a crime, etc.; to hide the truth about something
+a bunch of something(flowers/grapes) = 다수의
+
+# 0482 talking about architecture (travel)
+bay window = a large window or set of windows that sticks out from the outside wall of a building
+column 기둥[원주], (둥근 기둥 모양의) 기념비
+beam 기둥
+dome = a large rounded roof or ceiling that is shaped like half of a ball
+cornice = a decorative strip of wood or some other material used at the top of the walls in a room
+skylight = a window in the roof of a house or on a ship's deck
+facade = the front of a building
+a building or place that is important because of when it was built or because of something in history that happened there
+ingenuity = skill or cleverness that allows someone to solve problems, invent things, etc.
+balcony = a raised platform that is connected to the side of a building and surrounded by a low wall or railing
+story = a group of rooms or an area that forms one floor level of a building, multi-story building
+up to date = the most recent, modern or fashionable
+remodel = change the structure, shape, or appearance of (something)
+
+# 0483 using hair products and accessories (for grooming) (clothing + grooming)
+groom = make (something) neat, smooth, or attractive
+hair salon vs barber shop, hair-dressor vs barber
+prom = a formal dance for high school students usually at the end of the school year
+style = give a particular shape to (someone's hair)
+shampoo, conditioner, gel, mousse, hairspray, hair-dryer, roller(curler),
+curling/flat iron, brush and comb(with teeth), bobby pin and elastic band, snap clip
+bobby pin = a thin piece of metal that is bent so that the ends are close together and that is used for holding hair in place
+barrette = a decorative clip or bar that is used to hold a girl's or woman's hair in place
+
+# 0484 getting a performance evaluation (business)
+shortcomings = a weakness in someone's character, a personal fault or failing
+supervise = be in charge of (someone or something), to watch and direct (someone or something)
+below par = worse than expected, not very good, bad
+productivity = the rate at which goods are produced or work is completed
+excel = be better than others
+pull one's weight = 자기 임무를 다하다(=do one's fair share)
+fault someone (on) = blame or criticize (someone)
+slack off = do something more slowly or work less hard than before
+bring down = cause (someone or something) to fall down onto the ground, cause (something) to become lower
+probation = a situation or period of time in which a person who is starting a new job is tested and watched to see if that person is able to do the job properly (보호관찰, 근신기간)
+up to par = good enough, as good as expected or wanted (보통 정도는 되는[기대에 부응하는])
+let someone go = fire someone
+pull out all the stops = do everything possible in order to do or achieve something
+
+# 0485 being clumsy  (about you | relationships + family)
+clumsy = moving or doing things in a very awkward way and tending to drop or break things
+two left feet = used to describe a person who is clumsy or awkward, especially while dancing or in sports.
+stumble = hit your foot on something when you are walking or running so that you fall or almost fall (= trip)
+trip = hit your foot against something while you are walking or running so that you fall or almost fall
+graceful = moving in a smooth and attractive way, having a smooth and pleasing shape or style
+glide = move in a smooth way, (of an airplane) fly without engine power
+uncoordinated = not able to move different parts of your body together well or easily, not well organized, not working together effectively
+accident-prone = tending to have many accidents
+prone = likely to do, have, or suffer from something
+a bull in a china shop = a person who breaks things or who often makes mistakes or causes damage in situations that require careful thinking or behavior
+china = a hard white material that is made of baked clay and used to make plates, bowls, etc.
+elegant = showing good taste, graceful and attractive
+have nothing on (someone) = have no advantage over (someone), not be better than (someone)
+dazzle = cause (someone) to be unable to see for a short time, greatly impress or surprise (someone) by being very attractive or exciting
+agile = able to move quickly and easily, quick, smart, and clever
+finesse = skill and cleverness that is shown in the way someone deals with a situation, problem, etc.
+
+# 0486 having limited mobility (health + medicine)
+mobility = the ability or tendency to move from one position or situation to another usually better one, ability to move quickly and easily
+crutches = a long sticks with a padded piece at the top that fits under a person's arm
+if you get the hang of something such as a skill or activity, you begin to understand or realize how to do it.
+lose heart = to begin to feel that you cannot do something that you have been trying to do, to become discouraged
+don't lose heart = don't give up
+cast = a hard covering that is put on an arm, leg, etc., so that a broken bone can heal
+lose one's balance = fail to keep one's weight spread evenly
+lean on = depend on (someone or something) for support
+utterly = completely, totally, entirely
+frustrating = causing feelings of anger and annoyance
+disappoint, discourage, frustrate, let someone down
+keep your eye on the ball = continue thinking about or giving attention to something important that you want to do or achieve
+limp = walk in a slow and awkward way because of an injury to a leg or foot
+first things first = used to say that you should do the things that are most important before doing other things
+
+# 0487 watching videos on the internet (technology)
+file-sharing sites - file cast -> against the law
+ethical = involving questions of right and wrong behavior, relating to ethics
+interrupt = cause (something) to stop happening for a time
+workaround = a method for overcoming/getting around a problem or limitation in a program or system
+get around = avoid being stopped by (something), to avoid having to deal with (something)
+pirate = illegally copy (something) without permission
+grainy = not smooth or fine, not clear or sharp because of having a picture formed from many dots that are large enough to be seen
+high definition = a high degree of detail in an image or screen
+treat = an occurrence in which you pay for someone's food, drink, or entertainment (cf. dutch)
+insist = say (something) in a way that is very forceful and does not allow disagreement
+
+# 0488 getting around regulations (business)
+qualms = a feeling of doubt or uncertainty about whether you are doing the right thing (꺼림칙함)
+regulation = an official rule or law that says how something should be done (=law)
+violate = break a rule or law, go against
+interpretation = the act or result of explaining or interpreting something, the way something is explained or understood
+flout = break or ignore (a law, rule, etc.) without hiding what you are doing or showing fear or shame
+the letter of the law vs. the spirit of the law
+cross the line = go beyond what is proper or acceptable
+Creative accounting is when companies present or organize their accounts in such a way that they gain money for themselves or give a false impression of their profits.(분식회계/장부조작)
+border on something = come close to being something
+blow out of proportion = cause (something) to become larger than it should be or to be treated as something worse or more important than it really is, (~를) 지나치게 부풀리다/과장하다
+get around = avoid being stopped by (something), to avoid having to deal with (something)
+loophole = an error in the way a law, rule, or contract is written that makes it possible for some people to legally avoid obeying it
+turn a blind eye to ( close one's eyes to ) = pretend not to notice or ignore deliberately
+comply (with) = do what you have been asked or ordered to do
+hot water = a difficult situation, trouble
+overactive = too active especially in a way that produces a bad result
+conscience = the part of the mind that makes you aware of your actions as being either morally right or wrong
+
+# 0489 talking about wealth (money)
+throw money around = to spend money in a foolish or careless way
+money talks = used to say that money has a strong influence on people's actions and decisions
+make a splash = attract a lot of attention in an exciting way
+social climber = someone who tries to gain a higher social position or status (such as by becoming friendly with wealthy people), 출세주의자, 야심가
+have/get one's (own) way = get or do what one wants to get or do despite the desires, plans, etc., of other people (disapproving)
+affluent = having a large amount of money and owning many expensive things (rich/wealthy)
+social standing = one's position in society
+throw oneself at (someone) = try too hard to attract the attention of (someone one is sexually attracted to)
+If someone throws themselves at you, they make it very obvious that they want to begin a relationship with you, by behaving as though they are sexually attracted to you.
+generous = freely giving or sharing money and other valuable things, providing more than the amount that is needed or normal, abundant or ample, showing kindness and concern for others
+chump change = a small amount of money, an amount of money that is not important or impressive
+patron = person who gives money and support to an artist, organization, etc., a person who buys the goods or uses the services of a business, library, etc.
+don't look a gift horse in the mouth.  남의 호의를 트집잡지 마라, 사람은 완벽한 선물을 기대해서는 안된다는 것을 뜻하는 속담
+spread (somethong around) = cause (something) to be present in more places throughout a large area
+sour grapes = used to describe the behaviour of somebody who pretends that something they cannot have is of little value or interest
+자기가 가질 수 없는 것의 가치를 낮게 평가하는 현상. 이솝 우화에서 여우가 손이 닿지 않는 곳에 있는 포도를 보며 애써 시고 맛이 없을 것으로 생각한 데에서 비롯
+money is the root of all evil 돈은 만악의 뿌리
+
+# 0490 eating spoiled food (food + drink)
+spoil = decay or lose freshness especially because of being kept too long
+moldy = covered with mold
+mold = a soft substance that grows on the surface of damp or rotting things
+expire = end, no longer be valid after a period of time
+rotten = having rotted or decayed and no longer able to be used, eaten, etc.
+decay = be slowly destroyed by natural processes; be slowly broken down by the natural processes that destroy a dead plant or body
+discoloration = the act of changing color in a bad way
+sour = having an acid taste that is like the taste of a lemon, tart
+sour = having the unpleasant taste or smell of food that is no longer fresh
+If you say that you might as well do something, or that you may as well do it, you mean that you will do it although you do not have a strong desire to do it and may even feel slightly unwilling to do it. ~하는 편이 낫다
+stale = (of food) no longer good or appealing, no longer fresh
+rancid = (of food) having a strong and unpleasant smell or taste from no longer being fresh, (기름기가 든 음식이) 맛이 변한
+taint = hurt or damage the good condition of (something), tainted food
+wilted = (of plants) drooping, typically due to lack of water, (채소/식물이) 시든, 풀이 죽은, 지친
+rust = a reddish substance that forms on iron or some other metal usually when it comes in contact with moisture or air
+go to waste = not be used, to be wasted
+food poisoning = sickness caused by bacteria or chemicals in food, 식중독
+hazardous = involving risk or danger; dangerous, (특히 건강/안전에) 위험한
+
+# 0491 having a temper tantrum (about you)
+temper tantrum = any fit of bad temper, especially kicking, screaming or deliberately holding the breath, (이유 없는)개짜증, (어린애가, 혹은 미성숙한 어른이 부리는) 땡깡
+ear-splitting = 고막을 찢는 듯한
+scream = a loud and high cry or sound, 비명/괴성
+act up = behave badly, act in a way that is not polite or acceptable, (of a machine) not work properly
+miserable = very unhappy, very sick or unwell, very severe or unpleasant
+distract = cause (someone) to stop thinking about or paying attention to someone or something and to think about or pay attention to someone or something else instead
+frustrated = very angry, discouraged, or upset because of being unable to do or complete something
+give in = stop trying to fight or resist something, agree to do or accept something that you have been resisting or opposing, 항복(굴복)하다
+quiet down = become quiet or quieter, to become calmer or less noisy
+reward = give money or another kind of payment to (someone or something) for something good that has been done
+misbehavior = 버릇없음; 나쁜 품행
+set limits[bounds] 한계를 짓다
+spank = hit (someone) on the buttocks with your hand as a form of punishment
+smack = slap or hit (someone or something) hard, (특히 아이들에 대한 벌로 손바닥으로) 때리기[후려치기]
+consequence = something that happens as a result of a particular action or set of conditions
+
+# 0492 importing and exporting goods (business)
+touch base with = ~와 접선[접촉]하다, 대화[협의]하다
+regulation = an official rule or law that says how something should be done (=law)
+cursory = done or made quickly, 대충하는, 피상적인 (=brief, perfunctory)
+grasp = a usually strong hold, an understanding of something
+cargo = something that is carried from one place to another by boat, airplane, etc. (선박/비행기의) 화물
+certificate of origin = a document stating the name of the country that produced a specified shipment of goods, 원산지증명서(수입품의)
+in order = appropriate or desirable, 
+shipping agent = a licensed agent in a port who transacts a ship's business, such as insurance or documentation, for the owner, 해운 회사[업자]
+rest assured (that) =  (자신이 하는 말을 강조하여) (~임을) 확신해도[믿어도] 된다
+Customs is the official organization responsible for collecting taxes on goods coming into a country and preventing illegal goods from being brought in.
+transport = carry (someone or something) from one place to another, 이동시키다[실어 나르다] 
+freight = goods that are carried by ships, trains, trucks, or airplanes, 화물
+waybill 승객 명부, 화물 운송장
+relieve = reduce or remove (something, such as pain or an unpleasant feeling)
+feel relieved, put one's mind at ease, ease one's mind = 마음을 놓다
+fire away = used in speech to tell someone to begin asking you questions, (명령문 형태로 쓰여) 말[질문]하세요
+
+# 0493 ordering at a sandwich shop (food + drink)
+BLT = a bacon, lettuce, and tomato sandwich
+club sandwich = a sandwich that has three slices of bread with two layers of meat (such as turkey) and other cold foods (such as lettuce, tomato, and mayonnaise) between them
+melt = change or cause (something) to change from a solid to a liquid usually because of heat
+condiment = something (such as salt, mustard, or ketchup) that is added to food to give it more flavor
+seasoning = a substance (such as salt, pepper, a spice, or an herb) that is used to add flavor to food
+on the side = served next to something rather than on top of it
+hold something = do not use or include (something) in preparing food
+throw in = add (something) to what you are selling without asking for more money, ~을 덤으로[거저] 주다[포함시키다]
+nutritional information 영양물 정보
+come off = become separated from something
+
+# 0494 types of story endings (entertainment + sports)
+head toward = ~을 향해 가다
+tragic = causing strong feelings of sadness usually because someone has died in a way that seems very shocking, unfair, etc.
+twist =명사 an unexpected or strange occurrence, (이야기상황의 예상 밖의) 전환[전개]
+sappy(soppy) = sad or romantic in a foolish or exaggerated way
+catastrophic = disastrous, 참사/재앙
+cliffhanger = a story, contest, or situation that is very exciting because what is going to happen next is not known, 손에 땀을 쥐게 하는 상황
+주인공이 어떤 상황에서도 갈등을 해결하지 않고 어려운 상황에 놓이도록하고 끝나는 이야기 형식이나 줄거리 장치
+horrible = causing horror, very shocking and upsetting
+stay true to = 어떤 사람이나 개념에 충성 혹은 의리를 지키는 것을 의미
+sequel = something that happens after and usually as a result of a previous event, (책/영화/연극 등의) 속편 (vs. prequel)
+
+# 0495 describing winds and storms (nature + weather | travel)
+hurricane = an extremely large, powerful, and destructive storm with very strong winds that occurs especially in the western part of the Atlantic Ocean(over the sea)
+uncanny = strange or unusual in a way that is surprising or difficult to understand
+tornado = a violent and destructive storm in which powerful winds move around a central point(on the ground)
+cross somebody's path = (we/they) meet by chance, run into
+run into somebody = meet somebody by chance, without expecting that
+windstorm = a storm that has very strong winds and usually very little rain or snow
+a gust (of wind) = a sudden strong wind
+rattle = hit against something repeatedly and make a quick series of short, loud sounds, 달가닥[덜거덕]거리다(딱딱한 것들이 맞부딪치며 짧게 연이어 내는 소리를 나타냄)
+if something blows down, or the wind blows it down, it falls to the ground because of the force of the wind
+uproot = pull (a plant and its root) completely out of the ground, remove (something) completely
+terrify = cause (someone) to be extremely afraid, to frighten (someone) very much
+breeze = a gentle wind, something that is easy to do
+make landfall = reach land after a journey by sea or air, 상륙하다
+gale = a very strong wind, a sudden occurrence of laughter, tears, etc.
+buckle down = start working or doing something in a serious or determined way
+wait something out = stay in a place until something difficult or unpleasant has passed or finished
+likelihood = the chance that something will happen
+
+# 0496 driving a company car (business | transportation)
+perk = something extra(benefit) that someone receives in addition to regular pay for doing a job; (급료 이외의) 특전
+call for = require or demand (something) as necessary or proper
+region = a part of a country, of the world, etc., that is different or separate from other parts in some way
+cover = be responsible for selling or providing something to all the people in (an area) for a company, organization, etc.
+territory = an area of land that belongs to or is controlled by a government
+affiliate = an organization (such as a television station) that is a member of a larger organization (such as a national network)
+deduct = take away (something, especially an amount of money) from a total
+account for = explain how or why something happened, to be the explanation for something
+fudge = speak or act in a way that is meant to avoid dealing with a problem directly; change (something) in order to trick people
+no big deal = 별일 아니다[대수롭지 않다]; used to indicate that something is of little consequence
+accessory = someone who helps another person commit a crime; something added to something else to make it more useful, attractive, or effective
+suit oneself = do what one wants to do, used especially to tell people that they can do what they want even though one does not think it is what they should do
+
+# 0497 shopping for bedding (home + community | shopping)
+bedding = the sheets and blankets that are used on a bed, 침구류(sheet, pillow, blanket, ...)
+betting = making a bet; risking losing (something) when you try to do or achieve something
+decorate = make (something) more attractive usually by putting something on it
+pillow = a bag filled with soft material that is used as a cushion usually for the head of a person who is lying down
+thread count = a measure of the fineness of fabric, the total number of vertical and horizontal threads per unit of surface such as a square inch.
+fitted sheet = a fabric sheet with elasticated corners designed to fit tightly over a mattress
+elasticate = insert elastic sections or thread into (a fabric or garment)
+flat sheet = an ordinary sheet for a bed as distinct from a fitted one
+comforter = a thick bed covering that is filled with a soft light material (such as feathers)
+duvet cover = a cover for bed for single man; a cover for comforter
+skirt = a piece of clothing worn by women and girls that hangs from the waist down; the part of a dress, coat, etc., that hangs from the waist down
+mattress = a cloth case that is filled with material and used as a bed
+tacky = slightly wet and sticky; having a cheap and ugly appearance, not tasteful or stylish
+canopy = a piece of cloth that hangs over a bed, throne, etc., as a decoration or shelter
+if you draw the line at a particular activity, you refuse to do it, because you disapprove of it or because it is more extreme than what you normally do.
+
+# 0498 joking and making fun of people (entertainment + sports)
+make fun of = laugh at and make jokes about (someone or something) in an unkind way
+poke fun at somebody = make a joke about (someone or something) usually in a friendly way; make fun of someone
+miffed (at) = slightly angry or annoyed; mad at someone less seriously
+tease = laugh at and criticize (someone) in a way that is either friendly and playful or cruel and unkind
+upset = make (someone) unhappy, worried, etc.
+hit on somebody = talk to somebody in a way that shows you are sexually(romantically) attracted to(interested in) them for rape or sexual harrassment
+receptionist = a person whose job is to deal with the people who call or enter an office, hotel, etc.
+(with) tongue in cheek = if you say something with your tongue in your cheek, you are not being serious and mean it as a joke.
+be the butt of the joke = be the person or thing that other people often joke about or criticize
+class clown = a student who tries to make other students laugh
+wisecrack = a funny and smart(clever) comment or joke
+thin-skinned = having a thin skin; easily bothered(offended) by criticism or insults, very sensitive <-> thick-skinned
+watch one's back = protect against danger from an unexpected quarter
+payback = punishment for something that was done in the past; revenge
+payback = an amount of money that you receive after investing in something and that is equal to or greater than the amount of money that you originally invested
+big time = something important or significant
+
+# 0499 marrying a gold digger (money)
+boy toy = a young person considered sexually attractive to men.
+take the cake = win the prize in a contest
+dress for the part = (특정한 일/직책/역할에) 알맞은 옷을 입고 있다
+bling/bling-bling = some people refer to expensive or fancy jewellery as bling or bling-bling.
+set someone back a lot of money  = cause (something or someone) to go back to an earlier or worse condition
+set somebody back something(a lot of money) = ~에게 ~(의 비용)을 들이게 하다
+a grand = a thousand dollars or pounds, $1,000
+token of one's affection = sign or symbol of one's love
+control/hold the purse strings = be the person who controls the amount of money spent and the way in which it is spent
+purse = a usually leather or cloth bag used by women for carrying money and personal things
+prey on/upon = hunt and kill (something) for food; hurt, cheat, or steal from (someone), cf. pray
+wrap around one's little finger = successfully control or exert influence over, especially for a sustained period of time.
+exert = use (strength, ability, etc.); wield
+wield strong influence over someone
+for your sake = for your benefit
+gold digger = a woman who becomes or tries to become romantically involved with a rich man in order to get money and gifts from him
+true color = the truth about someone
+altar = a raised place on which sacrifices and gifts are offered in some religions
+cynic = a person who has negative opinions about other people and about the things people do
+hopeless romantic = a person who strongly desires a successful romantic relationship, but struggles greatly to find or maintain one in practice. (연애 젬병 낭만주의자)
+
+# 0500 taking minutes of a meeting (business)
+minutes = an official record of the proceedings of a meeting, conference, convention, etc
+be absent at <-> be present at
+be absent from work/school = 결근/결석
+elect = select/choose (someone) for a position, job, etc., by voting
+secretary = a person who takes minutes in a meeting
+secretary = a person whose job is to handle records, letters, etc., for another person in an office; a person in a club or other organization who is in charge of keeping letters and records
+transcribe = make a written copy of (something); write down (something that is spoken/said)
+summarize = tell (information) again using fewer words
+chair = a person who leads the meeting, chairman
+call a meeting to order = formally start a meeting
+roll call = the act of saying each of the names on a list to find out who is present
+go over = look at or check something carefully
+agenda = a list of things(items) to be considered or discussed or done
+a show of hands = an occurrence in which people put(raise) a hand in the air to indicate that they want something, agree with something, etc.
+in favor of something <-> against something, oppose
+oppose = disagree with or disapprove of (something or someone)
+table (an issue/a topic) = decide not to discuss (something) until a later time
+participants, applicants
+we're running out of time. we ran out of time.
+adjourn = end something (such as a meeting or session) for a period of time
+officer = a person who has an important/official position in a company, organization, or government (president, vice-president, chairman, treasurer, secretary, ...)
+dusk = the time when day changes into night and the sky begins to get darker; twilight
+dawn = the time of day when sunlight first begins to appear

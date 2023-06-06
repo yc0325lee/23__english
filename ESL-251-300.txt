@@ -1,0 +1,515 @@
+# vim: ft=text ts=4 sw=4 tw=999 expandtab
+
+# 0251 stranger on a plane (travel)
+window/midle/aisle seat in a plane
+(there's) no peace/rest for the wicked = used when somebody is complaining that they have a lot of work to do
+If you are seeing someone, you spend time with them socially, and are having a romantic or sexual relationship.
+I was born and raised in Seoul.
+A coincidence is when two or more similar or related events occur at the same time by chance and without any planning.
+show somebody around = to go with somebody when they visit a place for the first time, showing them what is interesting
+If you give someone a run-down of a group of things or a run-down on something, you give them details about it.
+
+# 0252 a workers strike (business)
+
+# 0253 traveling by train (travel)
+A timetable is a plan of the times when particular events are to take place.
+depart <-> arrive
+When something or someone departs from a place, they leave it and start a journey to another place.
+coach class = economy class for a plane's seats
+for a change = for variety; as an improvement on what usually happens
+look into something = examine something or consider it carefully
+
+# 0254 good hygiene (daily life | health + medicine)
+hygiene is the practice of keeping yourself and your surroundings clean, especially in order to prevent illness or the spread of diseases.
+Something that is messy is dirty or untidy.
+if you describe a situation as messy, you are emphasizing that it is confused or complicated, and therefore unsatisfactory.
+a germ is a very small organism that causes disease.
+If you sterilize a thing or a place, you make it completely clean and free from germs.
+do more harm than good(백해무익)
+contagious vs. infectious
+a disease that is 'contagious' can be caught by touching people or things that are infected with it.
+a disease that is 'infectious' can be caught by being near a person who has it.
+
+# 0255 questions about a product (shopping)
+If you describe something as straightforward, you approve of it because it is easy to do or understand.
+hook something up to = connect something to a piece of electronic equipment or to a power supply
+A warranty is a written promise by a company that, if you find a fault in something they have sold you within a certain time, they will repair it or replace it free of charge.
+come with something = be included with or as part of something
+a product with a defect or a fault -> return it for an exchange or a refund
+restocking fee 재고충당 수수료
+If you restock something such as a shelf, fridge, or shop, you fill it with food or other goods to replace what you have used or sold.
+
+# 0256 looking for ideas (business)
+
+# 0257 finding a book at a bookstore (entertainment + sports | shopping)
+
+# 0258 moving in together (relationships + family)
+
+# 0259 making a restaurant reservation (food + drink)
+If you try to reach someone, you try to contact them, usually by telephone.
+if you guarantee something, you promise that it will definitely happen, or that you will do or provide it for someone.
+when you note something, you write it down as a record of what has happened.
+a high chair is a chair with long legs for a small child to sit in while they are eating.
+a booster seat or a booster cushion is a special seat which allows a small child to sit in a higher position, for example at a table or in a car.
+a lively event or a lively discussion, for example, has lots of interesting and exciting things happening or being said in it.
+
+# 0260 business trends (business)
+you use fad to refer to an activity or topic of interest that is very popular for a short time, but which people become bored with very quickly.
+A poll is a survey in which people are asked their opinions about something, usually in order to find out how popular something is or what people intend to do in the future.
+A dramatic change or event happens suddenly and is very noticeable and surprising.
+go green = 친환경적이 되다, cf) go viral
+off the charts = (about a score, number, price, etc.) far higher or better than normal
+If you predict an event, you say that it will happen.
+If you forecast future events, you say what you think is going to happen in the future.
+
+# 0261 describing people's personalities (about you)
+your personality is your whole character and nature.
+moody = if you describe someone as moody, you mean that their feelings and behaviour change frequently, and in particular that they often become depressed or angry without any warning.
+변덕스러운 = unpredictable, capricious, fickle
+timid people are shy, nervous, and have no courage or confidence in themselves.
+an introvert is a quiet, shy person who finds it difficult to talk to people.(<-> extrovert)
+talkative, chatty
+Someone who is bad-tempered is not very cheerful and gets angry easily.
+A generous person is friendly, helpful, and willing to see the good qualities in someone or something.
+look up to somebody = admire or respect somebody
+even-keeled = calm
+someone who is stubborn or who behaves in a stubborn way is determined to do what they want and is very unwilling to change their mind.
+If you describe someone as obstinate, you are being critical of them because they are very determined to do what they want, and refuse to change their mind or be persuaded to do something else.
+put up with somebody/something = accept somebody/something that is annoying or unpleasant without complaining
+
+# 0262 missing the tour group bus (travel)
+if you rendezvous with someone or if the two of you rendezvous, you meet them at a time and place that you have arranged.
+take off = leave the ground and begin to fly (<-> land on)
+'-ish' is added to words referring to times, dates, or ages to form words which indicate that the time or age mentioned is approximate.
+stick to = adhere or cause to adhere to
+if you spot something or someone, you notice them. (become aware of someone/something)
+step on it! = used especially to tell somebody to drive[go/run] faster
+
+# 0263 getting older (about you)
+a train of thought = the connected series of thoughts that are in your head at a particular time
+senior moment = 깜빡함(특히 나이 많은 사람의 특징으로 여겨지는 건망증 현상)
+over the hill = no longer young; past your best; 한물간[퇴물이 된]
+Some people use geezer to refer to a man. (美) (특히 좀 이상한) 영감[노인]
+If you describe someone as middle-aged, you mean that they are neither young nor old. People between the ages of 40 and 60 are usually considered to be middle-aged.
+Someone who is absent-minded forgets things or does not pay attention to what they are doing, often because they are thinking about something else.
+If old people become senile, they become confused, can no longer remember things, and are unable to look after themselves. become/go senile
+if you say that someone is griping, you mean they are annoying you because they keep on complaining about something.
+Ageism is unacceptable behaviour that occurs as a result of the belief that older people are of less value than younger people.
+If you describe someone as sharp, you are praising them because they are quick to notice, hear, understand, or react to things.
+If you say that a relationship between people is productive, you mean that a lot of good or useful things happen as a result of it.
+You've got a point = 네 말이 맞다. 일리 있다.
+
+# 0264 preparing for a video conference (business)
+the next best thing = the best alternative for a thing that you cannot have
+face-to-face = in person
+a piece of cake = very easy to do
+a run-through for a show or event is a practice for it.(=~ rehearsal)
+turn something up = adjust the controls of a piece of electrical equipment in order to increase the heat, noise, etc.
+If you adjust something, you change it so that it is more effective or appropriate.
+If you tilt an object(up and down) or if it tilts, it moves into a sloping position with one end or side higher than the other.
+be (back) in business = be working or operating (again) as normal
+
+# 0265 listening to the radio (entertainment + sports)
+no way = no, absolutely not!
+things which are simultaneous happen or exist at the same time.
+A simulcast is a programme which is broadcast at the same time on radio and television, or on more than one channel. 
+if you get good reception from your radio or television, the sound or picture is clear because the signal is strong.
+if the reception is poor, the sound or picture is unclear because the signal is weak.
+low-tech <-> high-tech
+if there is static on the radio or television, you hear a series of loud noises which spoils the sound.
+If you call someone a snob, you disapprove of them because they admire upper-class people and have a low opinion of lower-class people.
+If you call someone a snob, you disapprove of them because they behave as if they are superior to other people because of their intelligence or taste.
+settle for something = accept something that is not quite what you wanted but is the best that you can get
+If someone, especially a politician, jumps or climbs on the bandwagon, they become involved in an activity or movement because it is fashionable or likely to succeed and not because they are really interested in it.
+This is the thanks for something 이것이 ~에 대한 보답이냐
+
+# 0266 making a move on someone (relationships + family)
+cozy(cosy) = if you are cosy, you are comfortable and warm.
+if you are upset, you are unhappy or disappointed because something unpleasant has happened to you.
+mess up = spoil something; to do something very badly
+mess something up = make something untidy or dirty
+If you reassure someone, you say or do things to make them stop worrying about something.
+If you comfort someone, you make them feel less worried, unhappy, or upset, for example by saying kind things to them.
+make a move on = try to start a sexual(romantic) relationship with somebody
+ridiculous = extremely silly or unreasonable (=absurd, ludicrous)
+hit on somebody = talk to somebody in a way that shows you are sexually(romantically) attracted to them rape or sexual harrassment
+if you file a formal or legal accusation, complaint, or request, you make it officially.
+compare apples and oranges 전혀 다른 것들을 비교하다
+observant = good at watching and listening, good at noticing what is going on around you (=sharp-eyed)
+mark one's word = listen carefully
+If you are flattered by something that has happened, you are pleased about it because it makes you feel important or special.
+have all the luck = very lucky/fortunate
+to add insult to injury = make a bad relationship with somebody worse by offending them even more, 설상가상으로
+if you notice something or someone, you become aware of them.
+if you realize that something is true, you become aware of that fact or understand it.
+recognize = know and remember (someone or something) because of previous knowledge or experience
+
+# 0267 getting a traffic ticket (government + law | transportation)
+pull over = move or to make somebody/something move, to the side of the road and stop
+run a red light = pass through the traffic light when the red light is illuminated.
+cite = give someone a ticket
+get away with doing something = do something wrong and not be punished or criticized for it
+a fine is a punishment in which a person is ordered to pay a sum of money because they have done something illegal or broken a rule.
+a citation is the same as a summons.
+
+# 0268 get-rich-quick schemes (money)
+informercial = 인포메이션(information)과 커머셜(commercial)의 합성어로서 상대적으로 정보량이 많은 상업광고
+a scam is an illegal trick, usually with the purpose of getting money from people or avoiding paying tax.
+get-rich-quick 일확천금(식)의
+Capital is a large sum of money which you use to start a business, or which you invest in order to make more money.
+pyramid scheme = a dishonest and usually illegal business in which many people are persuaded to invest their money and the money of later investors is used to pay the people who invested first
+lose one's shirt (on) = lose everything, 무일푼이 되다
+fraud is the crime of gaining money or financial benefits by a trick or by lying.
+A testimonial is a written statement about a person's character and abilities, often written by their employer.
+strike it rich = become rich suddenly
+sucker = If you call someone a sucker, you mean that it is very easy to cheat them.
+if something is the prerogative of a particular person or group, it is a privilege or a power that only they have.
+
+# 0269 health insurance plans (health + medicine)
+If an organization is affiliated with another larger organization, it is officially connected with the larger organization or is a member of it.
+lose somebody/something in the shuffle = (usually used in the passive) not notice somebody/something or pay attention to somebody/something because of a confusing situation
+A bureaucracy is an administrative system operated by a large number of officials.
+Primary care refers to those parts of the health service, such as general practitioners and hospital casualty departments, that deal with people who are in immediate need of medical care.
+specialist
+Referral is the act of officially sending someone to a person or authority that is qualified to deal with them. A referral is an instance of this.
+If you have a grievance about something that has happened or been done, you believe that it was unfair.
+file a grievance or file a complaint
+go blind = lose one's sight
+go deaf = lose one's hearing
+(장애로 말을 못하는 사람) speech-impaired person, (offensive) mute, dumb
+
+# 0270 airport announcements (travel)
+If you delay doing something, you do not do it immediately or at the planned or expected time, but you leave it until later.
+If you postpone an event, you delay it or arrange for it to take place at a later time than was originally planned.
+pilot, crew, passenger
+The crew of a ship, an aircraft, or a spacecraft is the people who work on and operate it. flight crew vs. ground crew
+If an organization such as an airline or a theatre company overbooks, they sell more tickets than they have places for.
+A voucher is a ticket or piece of paper that can be used instead of money to pay for something.
+If you are bumped off an airline because of overbooking, you are entitled to compensation.
+When you board a train, ship, or aircraft, you get on it in order to travel somewhere.
+
+# 0271 using an atm (money)
+A clerk is a person who works in an office, bank, or law court and whose job is to look after the records or accounts.
+PIN = personal identification number, ATM = automatic teller machine
+jammed = (막히거나 걸려서) 움직일 수 없는[꼼짝도 하지 않는], (특히 美) 빽빽히 찬, 몹시 붐비는
+A teller is someone who works in a bank and who customers pay money to or get money from.
+A transaction is a piece of business, for example an act of buying or selling something.
+a bankbook
+bank transaction : deposit, withdraw, transfer
+checking account vs.  savings account
+If you retrieve something, you get it back from the place where you left it. take something out of somewhere
+act up = behave in a troublesome way
+You use troublesome to describe something or someone that causes annoying problems or difficulties.
+Don't take it personally
+
+# 0272 time management (business)
+if you say that you are snowed under, you are emphasizing that you have a lot of work or other things to deal with.
+if something or someone is efficient, they are able to do tasks successfully, without wasting time or energy.
+keep/lose track (of somebody/something) = stay/not stay informed about somebody/something; remember/forget about the number of something, the time, etc
+if something is urgent, it needs to be dealt with as soon as possible.
+slip through the cracks 당연히 인식되어야 할 것, 업무, 정보 등이 구조적 모순, 게으름 등으로 인하여 등한시되다, 무시되다, 방치되다
+check something off = put a mark beside items on a list to show that they are correct, present or have been dealt with
+cross somebody/something off = remove somebody's name or an item from a list by drawing a lind through it because you have dealt with them/it or they are/it is no longer involved
+
+# 0273 telling secrets to parents (relationships + family)
+
+
+# 0274 buying stamps at the post office (home + community)
+denomination
+priority mail [미] 우선 취급 우편 ((12온스 이상의 제1종 우편물(first-class mail); 중량 한도는 70파운드))
+domestic[international] mail
+a book of stamps/tickets/matches 한 다발
+a roll of film 한 두루마리
+An envelope is the rectangular paper cover in which you send a letter to someone through the post.
+A commemorative object or event is intended to make people remember a particular event or person.
+Your change is the money that you receive when you pay for something with more money than it costs because you do not have exactly the right amount of money.
+
+# 0275 a soccer match (entertainment + sports)
+A penalty is a punishment that someone is given for doing something which is against a law or rule.
+goalie = goalkeeper
+The referee is the official who controls a sports event such as a football game or a boxing match.
+An umpire is a person whose job is to make sure that a sports match or contest is played fairly and that the rules are not broken.
+If you do something that is deliberate, you planned or decided to do it beforehand, and so it happens on purpose rather than by chance.
+deliberately = on purpose
+A cleat is a kind of hook with two ends which is used to hold ropes, especially on sailing boats.
+In a sport or game, if a player scores a goal or a point, they gain a goal or point.
+If something is situated off a place such as a coast, room, or road, it is near to it or next to it, but not exactly in it.
+sidelines = the area immediately outside the playing area, where substitute players sit
+A brawl is a rough or violent fight.
+
+# 0276 the stock market (business | money)
+portfolio = the investments that are owned by a person or organization
+a stock option is an opportunity for the employees of a company to buy shares at a special price.
+bond market = 채권시장, derivatives = 파생상품
+a company's shares are the many equal parts into which its ownership is divided. shares can be bought by people as an investment.(지분)
+If prices, profits, or exchange rates nosedive, they suddenly fall by a large amount.
+a stockbroker is a person whose job is to buy and sell stocks and shares for people who want to invest money.
+When an organization or person diversifies into other things, or diversifies their range of something, they increase the variety of things that they do or make.
+if you describe something such as a job as secure, it is certain not to change or end.
+A secure base or foundation is strong and reliable.
+A bear market is a situation on the stock market when people are selling a lot of shares because they expect that the shares will decrease in value and that they will be able to make a profit by buying them again after a short time.
+A bull market is a situation on the stock market when people are buying a lot of shares because they expect that the shares will increase in value and that they will be able to make a profit by selling them again after a short time.
+If something rebounds from a solid surface, it bounces or springs back from it.
+Panic is a very strong feeling of anxiety or fear, which makes you act without thinking carefully.
+If you panic or if someone panics you, you suddenly feel anxious or afraid, and act quickly and without thinking carefully.
+Charity is kindness and understanding towards other people.
+
+# 0277 garage sales (shopping)
+If you have a garage sale, you sell things such as clothes, toys and household items that you do not want, usually in your garage.
+A bargain hunter is someone who is looking for goods that are value for money, usually because they are on sale at a lower price than normal.
+be (about) par for the course = be normal; be what you would expect to happen
+rip somebody off = cheat somebody, for example by charging them too much for something, selling them something of poor quality, etc. -> get ripped off
+early bird vs. night owl
+If you are desperate, you are in such a bad situation that you are willing to try anything to change it.
+If you are desperate for something or desperate to do something, you want or need it very much indeed.
+If you lug a heavy or awkward object somewhere, you carry it there with difficulty.
+give something away = give something to somebody as a gift
+To slash something such as costs or jobs means to reduce them by a large amount.
+Junk is old and used goods that have little value and that you do not want any more.
+Knick-knacks are small objects which people keep as ornaments or toys, rather than for a particular use.
+An ornament is an attractive object that you display in your home or in your garden.
+
+# 0278 meeting the future in-laws (relationships + family)
+Your in-laws are the parents and close relatives of your husband or wife.
+A squad is a section of a police force that is responsible for dealing with a particular type of crime.
+A firing squad is a group of soldiers who are ordered to shoot and kill a person who has been found guilty of committing a crime.
+If you describe someone as straight-laced, you disapprove of them because they have very strict views about what kind of behaviour is moral or acceptable.
+A convict is someone who is in prison.(= prisoner)
+If you postpone an event, you delay it or arrange for it to take place at a later time than was originally planned.
+put off = postpone
+blow a thing out of proportion = ~을 침소봉대하다, 작은 일을 크게 떠벌리다
+ride on something = to depend on something
+have good taste (in...) = (...에 대해) 뛰어난 안목을 가지고 있다
+
+# 0279 saying goodbye (relationships + family)
+run into somebody = meet somebody by chance, without expecting that
+'a while' means for a long time.
+Shame is an uncomfortable feeling that you get when you have done something wrong or embarrassing, or when someone close to you has.
+Go on ahead. I'll catch up with you soon.
+Let's keep in touch(contact) = stay in touch <-> lose touch with somebody
+get together = meet with somebody for social purposes or to discuss or organize something
+A get-together is an informal meeting or party, usually arranged for a particular purpose.
+Give my best regards to somebody.
+
+# 0280 viral marketing (business)
+go viral = spread quickly from person to person and become popular
+viral marketing = a direct marketing technique in which a company persuades internet users to forward its publicity material in e-mails (usually by including jokes, games, video clips, etc)
+buzz = 수근거림,소문
+If something spreads or is spread by people, it gradually reaches or affects a larger and larger area or more and more people.
+in turn = one after another
+word of mouth
+Someone or something that is promising seems likely to be very good or successful.
+To transform something or someone means to change them completely and suddenly so that they are much better or more attractive.
+Enthusiasm is great eagerness to be involved in a particular activity which you like and enjoy or which you think is important. -> enthusiastic
+If you are enthusiastic about something, you show how much you like or enjoy it by the way that you behave and talk.
+
+# 0281 all-inclusive vacations (travel)
+all-inclusive is used to indicate that a price, especially the price of a holiday, includes all the charges and all the services offered.
+If you are provided with lodging or lodgings, you are provided with a place to stay for a period of time. You can use lodgings to refer to one or more of these places.
+off the beaten track = far away from where people normally live or go
+If you say that something or someone is first-rate, you mean that they are extremely good and of the highest quality.
+substandard = below an established or required standard, not as good as it should be
+Amenities are things such as shopping centres or sports facilities that are provided for people's convenience, enjoyment, or comfort. -> amenity vs. facility
+A compromise is a situation in which people accept something slightly different from what they really wantse of circumstances or because they are considering the wishes of other people.
+Spontaneity is spontaneous, natural behaviour. <-> predictability
+bust = total failure, nothing
+
+# 0282 offending someone (relationships + family)
+If you offend someone, you say or do something rude which upsets or embarrasses them.
+If you grab something, you take it or pick it up suddenly and roughly.
+If you say that someone's performance is off-colour, you mean that they are not performing as well as they usually do.
+If someone insults you, they say or do something that is rude or offensive.
+have a tough time fitting in with ~
+be the butt of jokes = be the person or thing that other people often joke about or criticize
+Ethnic means connected with or relating to different racial or cultural groups of people. ethnic vs. racial
+If something reinforces a feeling, situation, or process, it makes it stronger or more intense.
+A stereotype is a fixed general image or set of characteristics that a lot of people believe to represent a particular type of person or thing.
+oversensitive = excessively responsive to or aware of feelings, reactions, etc
+leprechaun = (in Irish folklore) a mischievous elf, often believed to have a treasure hoard
+A mischievous person likes to have fun by playing harmless tricks on people or doing things they are not supposed to do.
+If you describe someone as insensitive, you are criticizing them for being unaware of or unsympathetic to other people's feelings.
+take someone at their word = belive whay they say
+
+# 0283 a restaurant drive-thru (food + drink)
+
+# 0284 a friendly rivalry (business)
+
+# 0285 a movie collection (entertainment + sports)
+You use buff to describe someone who knows a lot about a particular subject. For example, if you describe someone as a film buff, you mean that they know a lot about films.
+on the big screen = on the movie, in a theater
+HD-TV = high-definition TV
+If you pride yourself on a quality or skill that you have, you are very proud of it.
+An Easter egg is an egg made of chocolate that is given as a present at Easter. In some countries, Easter eggs are hidden and children then look for them.
+A blooper is a silly mistake.
+country/region code, area code and number
+Bootleg is used to describe something that is made secretly and sold illegally.
+
+# 0286 describing facial features (about you)
+If someone mugs you, they attack you in order to steal your money.
+come up with something = think of an idea, an answer to a question or a solution to a problem
+Oval things have a shape that is like a circle but is wider in one direction than the other.
+If something such as a person's stomach bulges, it sticks out.
+stick out = be further out than something else; to be partly outside something such as a container
+squinty = 사시의, 사팔눈의.
+Bushy hair or fur is very thick. A bushy plant has a lot of leaves very close together.
+Your eyebrows are the lines of hair which grow above your eyes.
+pointed nose vs. hooked nose
+turn up
+wallet vs. purse
+
+# 0287 a traffic jam (transportation)
+a traffic jam is a long line of vehicles that cannot move forward because there is too much traffic, or because the road is blocked by something.
+a congested road or area is extremely crowded and blocked with traffic or people.
+If a part of the body is congested, it is blocked.
+have no choice but to ~ = be forced to do something
+If vehicles are bumper to bumper, there is so much traffic that they are very close together and can hardly move.
+(almost touching)
+drive on the shoulder
+backup = traffic jam, congested road
+If you bypass a place when you are travelling, you avoid going through it.
+If a process stalls, or if someone or something stalls it, the process stops but may continue at a later time.
+If a vehicle stalls or if you accidentally stall it, the engine stops suddenly.
+If someone is rubbernecking, they are staring at someone or something, especially in a rude or silly way.
+rubbernecker = 목을 길게 빼고 들여다 보는[구경하는] 사람
+A lane is a part of a main road which is marked by the edge of the road and a painted line, or by two painted lines.
+be at your wits' end = be so confused or worried that you do not know what you should do
+If you say that someone is reckless, you mean that they act in a way which shows that they do not care about danger or the effect their behaviour will have on other people.
+make up for something = do or provide something good to balance or reduce the effects of something bad
+make up for something = do something good for somebody because you have treated them badly or because they have done something good for you
+make up for lost time = do something quickly or very often because you wish you had started doing it sooner
+stand somebody up = deliberately fail to meet somebody you have arranged to meet, especially somebody you are having a romantic relationship with, (특히 연인 사이에서) ~를 바람맞히다
+
+# 0288 a business contract (business)
+If an activity, process, or event proceeds, it goes on and does not stop.
+go over = look at or check something carefully
+If you describe someone or something as objectionable, you consider them to be extremely offensive and unacceptable.
+in order = (of an official document) that can be used because it is all correct and legal
+If you stipulate a condition or stipulate that something must be done, you say clearly that it must be done.
+stipulation = 조항, 조건
+null and void = no longer effective or valid
+bring something up = mention a subject and start to talk about it
+A sticking point in a discussion or series of negotiations is a point on which the people involved cannot agree and which may delay or stop the talks. A sticking point is also one aspect of a problem which you have trouble dealing with.
+Acceptable activities and situations are those that most people approve of or consider to be normal.
+A compromise is a situation in which people accept something slightly different from what they really want, because of circumstances or because they are considering the wishes of other people.
+
+# 0289 communication problems (relationships + family)
+A dialogue is a conversation between two people in a book, film, or play.
+Dysfunctional is used to describe relationships or behaviour which are different from what is considered to be normal.
+A pattern is the repeated or regular way in which something happens or is done.
+relate to = be connected to
+hold on = used to ask somebody to wait or stop for a short time
+grow apart = become less close to somebody in a relationship
+The cornerstone of something is the basic part of it on which its existence, success, or truth depends.
+If you are sympathetic to someone who is in a bad situation, you are kind to them and show that you understand their feelings.
+To validate something such as a claim or statement means to prove or confirm that it is true or correct.
+To validate a person, state, or system means to prove or confirm that they are valuable or worthwhile.
+make a deal with someone
+put one's foot down
+If you are hostile to another person or an idea, you disagree with them or disapprove of them, often showing this in your behaviour.
+Someone who is hostile is unfriendly and aggressive.
+
+# 0290 riding the subway (transportation)
+a token is a round flat piece of metal or plastic that is sometimes used instead of money.
+a fare is the money that you pay for a journey that you make, for example, in a bus, train, or taxi.
+a fee is the amount of money that a person or organization is paid for a particular job or service that they provide.
+If you are issued with something, it is officially given to you.
+When you deduct an amount from a total, you subtract it from the total.
+deduct money from = take away money from
+A turnstile is a mechanical barrier at the entrance to a place such as a museum or a football ground. Turnstiles have metal arms that you push round as you go through them and enter the building or area.
+a clerk = shop assistant
+
+# 0291 going on a diet (health + medicine)
+If someone or something weighs a particular amount, this amount is how heavy they are.
+If you weigh something or someone, you measure how heavy they are.
+gain weight vs. lose weight
+shed something = get rid of something
+shed tears/sweat, Trees shed their leaves in fall. This book sheds new light on the role of the CIA.
+drugstore vs. pharmacy
+Pills are small solid round masses of medicine or vitamins that you swallow without chewing.
+take it/things easy = relax and avoid working too hard or doing too much; not get angry, excited, etc
+carb = carbohydrate, 탄수화물
+come around (to something) = agree to something that you were against before; to change your opinion about something
+work out = take part in physical exercise, as in training
+keep off something = not eat, drink or smoke something; to not let somebody eat, drink or smoke something
+love handles = folds of excess fat on either side of the waist and on the belly
+A strenuous activity or action involves a lot of energy or effort. strenuous/energetic exercise
+If someone is obese, they are extremely fat or very overweight.
+fat people -> fat, overweight, large or heavy, big, plump, chubby, tubby, stocky, stout, flabby, obese
+
+# 0292 business insurance (business)
+lose control of something
+insurance -> full coverage vs. limitted coverage
+be insured against something = buy an insurance policy which will pay you money if the event mentioned happens
+If a situation or legal contract lapses, it is allowed to end rather than being continued, renewed, or extended. no longer be valid, expire
+business interruption insurance
+An act of God is an event that is beyond human control, especially one in which something is damaged or someone is hurt.
+An insurance policy that covers a person or thing guarantees that money will be paid by the insurance company in relation to that person or thing.
+adjuster = 조정자, 손해사정인, estimate how much money the insurance company has to pay
+gaurd against = protect against
+get the ball rolling = begin/continue an activity, discussion, etc
+
+# 0293 being affectionate in public (relationships + family)
+if you are affectionate, you show your love or fondness for another person in the way that you behave towards them.
+decent = showing kindness, seeming to care about the feelings or problems of other people; morally correct or acceptable; good enough but not the best, adequate or acceptable
+if you describe something as indecent, you mean that it is shocking and offensive, usually because it relates to sex or nakedness.(inappropriate, immoral)
+if you have something on your lap when you are sitting down, it is on top of your legs and near to your body.
+make out = engage in necking or petting[US], (美, 비격식) ~ (with somebody) (~를[와]) 애무[섹스]하다
+A passionate person has strong romantic or sexual feelings and expresses them in their behaviour.
+A teenager is someone who is between thirteen and nineteen years old.(-> adult)
+You can describe a woman as modest when she avoids doing or wearing anything that might cause men to have sexual feelings towards her. You can also describe her clothes or behaviour as modest.
+If you peck someone on the cheek, you give them a quick, light kiss.
+If two people are necking, they are kissing each other in a sexual way.
+You use cosy to describe activities that are pleasant and friendly, and involve people who know each other well.
+If you object to something, you express your dislike or disapproval of it.
+Your affections are your feelings of love or fondness for someone.
+
+# 0294 living in a condo or co-op (home + community)
+exasperate = if someone or something exasperates you, they annoy you and make you feel frustrated or upset.
+exasperate = if you describe a person as exasperated, you mean that they are frustrated or angry because of something that is happening or something that another person is doing.
+condominium = a condominium is an apartment building in which each apartment is owned by the person who lives there.
+if people in authority enforce a law or a rule, they make sure that it is obeyed, usually by punishing people who do not obey it.
+shareholder = a shareholder is a person who owns shares in a company.
+infraction = (법규의) 위반
+a clubhouse is a place where the members of a club, especially a sports club, meet.
+if you reserve something such as a table, ticket, or magazine, you arrange for it to be kept specially for you, rather than sold or given to someone else.
+
+# 0295 playing video games (technology)
+
+# 0296 bad manners at a business lunch (food + drink)
+
+# 0297 being rich and poor (about you | money)
+
+# 0298 visiting a museum (entertainment + sports | travel)
+
+# 0299 an old love (relationships + family)
+be an item = be involved in a romantic or sexual relationship
+An old flame is someone with whom you once had a romantic relationship.
+Ancient means very old, or having existed for a long time.
+lose touch/contact (with somebody/something) = not write/speak to somebody or not hear/read about somebody/something as you did in the past
+get together = meet with somebody for social purposes or to discuss or organize something
+out of the blue = suddenly and unexpectedly
+You can say that you are dying of thirst, hunger, boredom, or curiosity to emphasize that you are very thirsty, hungry, bored, or curious.
+have feelings for
+catch up on something = find out about things that have happened
+may/might as well (do something) = used for saying that you will do something because it seems best in the situation that you are in, although you may not really want to do it
+If you do something or if something happens afterwards, you do it or it happens after a particular event or time that has already been mentioned.
+A vicarious pleasure or feeling is experienced by watching, listening to, or reading about other people doing  something, rather than by doing it yourself.
+make things up
+if you say that someone is pestering you, you mean that they keep asking you to do something, or keep talking to you, and you find this annoying.
+can't wait = (idiomatic) To eagerly anticipate; to find it unbearable to wait for a forthcoming pleasurable event
+A forthcoming event is planned to happen soon.
+
+# 0300 arriving for an appointment (business)
+in a hotel, the receptionist is the person whose job is to book rooms for people and answer their questions.
+in an office or hospital, the receptionist is the person whose job is to answer the telephone, arrange  appointments, and deal with people when they first arrive.
+a secretary is a person who is employed to do office work, such as typing letters, answering phone calls, and  arranging meetings.
+run late = (idiomatic) be late; fail to be on time
+if someone or something is tied up, they are busy or being used, with the result that they are not available for anything else.
+wrap something up = complete something in an acceptable way
+reception area
+if you wonder about something, you think about it, either because it interests you and you want to know more about it, or because you are worried or suspicious about it.
+if you have doubt or doubts about something, you feel uncertain about it and do not know whether it is true or possible. if you say you have no doubt about it, you mean that you are certain it is true.
+expand = get bigger, grow
+if you pump someone about something, you keep asking them questions in order to get information.
+inside scoop = information that only an insider would have
+in no time = very soon, in a very short period of time
