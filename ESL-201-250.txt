@@ -26,10 +26,10 @@ squeegee = an implement with a rubber blade used for wiping away surplus water f
 If you wipe dirt or liquid from something, you remove it, for example by using a cloth or your hand.
 
 # 0203 Text messaging
-if one thing is a template for something else, the second thing is based on the first thing.
-if you compose something such as a letter, poem, or speech, you write it, often using a lot of concentration or skill.
+template = if one thing is a template for something else, the second thing is based on the first thing.
+compose = if you compose something such as a letter, poem, or speech, you write it, often using a lot of concentration or skill.
 predict = say that (something) will or might happen in the future
-you use predictive to describe something such as a test, science, or theory that is concerned with determining what will happen in the future.
+predictive = you use predictive to describe something such as a test, science, or theory that is concerned with determining what will happen in the future.
 get up to speed
 make sense = have a meaning that you can easily understand, be a sensible or practical thing to do, be easy to understand or explain
 

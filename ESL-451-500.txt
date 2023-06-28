@@ -193,7 +193,7 @@ set (someone) right/straight - tell (someone) who is wrong about something what 
 enthusiasm - strong excitement about something, a strong feeling of active interest in something that you like or enjoy
 vacuum - clean (something) with a vacuum cleaner
 interior - an inner part, area, or surface (opposite: EXTERIOR)
-polish - make (something) smooth and shiny by rubbing it
+polish - make (something) smooth and shiny by rubbing it; the people of Poland
 inspect - look at (something) carefully in order to learn more about it, to find problems, etc.
 
 # 0464 talking about inventory (business)
@@ -304,11 +304,12 @@ pull oneself together = recover control of one's emotions
 here goes nothing = said before you begin to do something that you do not think will be successful
 
 # 0473 showing respect and disrespect (relationships + family)
-snicker (at) = make a short, quiet laugh in a way that shows disrespect
+snicker (at) = make a short, quiet laugh in a way that shows disrespect; Å±Å±°Å¸®´Ù
+flicker = a quick and unsteady movement of light; burn or glow in an unsteady way, to produce an unsteady light
 acclaim = strong approval or praise
-reverence = honor or respect that is felt for or shown to (someone or something)
+reverence = honor or respect that is felt for or shown to (someone or something); ¼þ¹è
 stage fright = a nervous feeling felt by someone who is going to appear in front of an audience
-sweat like a pig = sweat very much
+sweat like a pig = sweat very much(a lot)
 make a fool of = trick or deceive (someone) so that they look foolish, behave in an incompetent or inappropriate way that makes one appear foolish
 stutter = have a speech problem that causes you to repeat the beginning sound of some words (stammer)
 make a spectacle of oneself = draw attention to oneself by behaving in a ridiculous way in public
@@ -321,7 +322,10 @@ come/go with the territory = be a natural part of a particular situation, positi
 bummer = something that is unpleasant or disappointing, that's a bummer!
 if you say that something is a bummer, you mean that it is unpleasant or annoying.
 toss and turn = move about and turn over in bed because you are unable to sleep
+sleeptalk = talk unconsciously in one's sleep
 make a beeline for = go quickly and directly at or to (something or someone)
+sleeping pill = a pill that contains a drug which helps a person sleep
+snore = breathe noisily while sleeping
 groggy = not able to think or move normally because of being tired, sick, etc.
 disorient = make (someone) lost or confused
 insomnia = the condition of not being able to sleep

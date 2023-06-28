@@ -12,3 +12,4 @@ __pycache__/
 *.json
 *.xlsx
 *.naver
+*.[_0-9][_0-9]*

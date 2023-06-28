@@ -112,8 +112,8 @@ cover your tracks = be careful not to leave any signs of something secret or ill
 
 # 0359 a fist fight (relationships + family)
 fist = your hand is referred to as your fist when you have bent your fingers in towards the palm in order to hit someone, to make an angry gesture, or to hold something.
-deserve = If you say that a person or thing deserves something, you mean that they should have it or receive it because of their actions or qualities.
-insult = If someone insults you, they say or do something that is rude or offensive.
+deserve = if you say that a person or thing deserves something, you mean that they should have it or receive it because of their actions or qualities.
+insult = if someone insults you, they say or do something that is rude or offensive.
 offensive = something that is offensive upsets or embarrasses people because it is rude or insulting.
 knock sombody off = defeat somebody in a competition or election
 knock someone's block off = (slang) strike a person in the head, causing them to fall to the ground, especially in an unconscious condition; to beat up a person.
@@ -125,7 +125,7 @@ clobber= If you clobber someone, you hit them (several times).
 take a swing at somebody = ~ø°∞‘ ¡÷∏‘¿ª »÷µŒ∏£¥Ÿ
 assault = an assault on a person is a physical attack on them.
 get ahold of oneself = calm down; stop behaving in an erratic way
-erratic = something that is erratic does not follow a regular pattern, but happens at unexpected times or moves along in an irregular way.
+erratic = acting, moving, or changing in ways that are not expected or usual; not consistent or regular
 cool off = become less interested or enthusiastic, calm down
 get what's coming to somebody = experience the consequences of one's actions
 nerve = lack of respect, Nerve is the courage that you need in order to do something difficult or dangerous.

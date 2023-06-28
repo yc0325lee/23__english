@@ -33,3 +33,4 @@ purse = a usually leather or cloth bag used by women for carrying money and pers
 dusk = the time when day changes into night and the sky begins to get darker
 dawn = the time of day when sunlight first begins to appear
 twilight = the light from the sky at the end of the day when night is just beginning
+bark = (a dog) make a short loud sound
